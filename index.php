@@ -48,7 +48,7 @@
                         
                         //Now refresh the current page
                         if($cookie_value != $old_lang) {
-                            return "RELOAD"; //This reloads the entire page
+                             return "RELOAD"; //This reloads the entire page
                         }
                     }
                 break;
