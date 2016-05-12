@@ -40,16 +40,21 @@
             switch($type) {
                 default:
                     if(isset($full_request['lang'])) {
+                        $old_lang = $_COOKIE['lang'];
+                        
                         $cookie_name = "lang";
                         $cookie_value = $full_request['lang'];
                         setcookie($cookie_name, $cookie_value, time() + (365*3*60*60*24*1000), "/"); // 86400 = 1 day
                         
                         //Now refresh the current page
+                        if($cookie_value != $old_lang) {
+                            return "RELOAD"; //This reloads the entire page
+                        }
                     }
                 break;
             }
             
-            return "RELOAD";        //This reloads the entire page
+            return true;        
             
         
         }
