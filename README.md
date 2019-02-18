@@ -14,7 +14,7 @@ Download the .zip file or git clone the repository into the directory loop-serve
 
 Copy a given choice of language options file from this plugin's language/[lang]/messages.json to the server's config/messages.json.
 
-Add "help_is_coming" into the "plugins" array of the server's config/config.json file to activate.
+Add "change_language" into the "plugins" array of the server's config/config.json file to activate.
 
 
 ## Future enhancements
