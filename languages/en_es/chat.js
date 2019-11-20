@@ -3,20 +3,26 @@
 var lsmsg = {
     "defaultLanguage" : "en",
     "msgs": {
-        "en":{
-              privateMessage: 'Private Message',
-              settings: 'Settings',
-              uploadImagesTitle: 'Upload images or video.',
-              uploadImagesTitleSorry: 'Sorry image uploads are only supported on IE10+, or any other browser.',
-              sendTo: 'Send to'
+         "en":{
+              "privateMessage": "Private",
+              "settings": "Settings",
+              "uploadImagesTitle": "Upload images",
+              "uploadImagesTitleSorry": "Sorry image uploads are only supported on IE10+, or any other browser.",
+              "sendTo": "Send to",
+              "emoticonsTitle": "Emoticons",
+              "helpURL": "https://atomjump.com/wp/user-guide/",
+              "helpTitle": "Help"
         },
         "es":{
-              privateMessage: 'Mensaje Privado',
-              settings: 'Settings',
-              uploadImagesTitle: 'Sube imágenes o vídeo.',
-              uploadImagesTitleSorry: 'La subida de imágenes Lo siento, sólo se admiten en IE10+, o cualquier otro navegador.',
-              sendTo: 'Enviar a'
-        }      
+              "privateMessage": "Privado",
+              "settings": "Ajustes",
+              "uploadImagesTitle": "Sube imágenes",
+              "uploadImagesTitleSorry": "La subida de imágenes Lo siento, sólo se admiten en IE10+, o cualquier otro navegador.",
+              "sendTo": "Enviar a",
+              "emoticonsTitle": "Emoticonos",
+              "helpURL": "https://atomjump.com/wp/user-guide/",
+              "helpTitle": "Ayuda"
+        }   
     }
 }
 
