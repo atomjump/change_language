@@ -284,7 +284,7 @@
             "privateOwnersEnter": "输入您的用户的电子邮件",
             "limitSubscribers": "限制订阅者",
             "limitSubscribersReason": "一个限制谁可以订阅这个论坛的网络域。",
-            "limitlimitscribersReasonExtended": "一个限制谁可以订阅这个论坛的网络域。例如atomjump.com, 将允许 peter@atomjump.com，paul@atomjump.com 和 mary@atomjump.com",
+            "limitSubscribersReasonExtended": "一个限制谁可以订阅这个论坛的网络域。例如atomjump.com, 将允许 peter@atomjump.com，paul@atomjump.com 和 mary@atomjump.com",
             "limitSubscribersEnter": "输入一个网域",
             "saveSettingsButton": "保存设置",
             "subscribeSettingsButton": "订阅",
