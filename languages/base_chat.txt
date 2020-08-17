@@ -1,0 +1,11 @@
+
+         "en":{
+              "privateMessage": "Private",
+              "settings": "Settings",
+              "uploadImagesTitle": "Upload images",
+              "uploadImagesTitleSorry": "Sorry image uploads are only supported on IE10+, or any other browser.",
+              "sendTo": "Send to",
+              "emoticonsTitle": "Emoticons",
+              "helpURL": "https://atomjump.com/wp/user-guide/",
+              "helpTitle": "Help"
+        }

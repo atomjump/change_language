@@ -1,0 +1,16 @@
+         "en": {
+              "defaultYourName": "Votre nom",
+              "defaultYourEmail": "Votre e-mail",
+              "connecté": "Connecté. Veuillez patienter ..",
+              "passwordWrong": "Désolé, votre mot de passe n'est pas correct.",
+              "forumPasswordWrong": "Désolé, le mot de passe de votre forum n'est pas correct.",
+              "passwordStored": "Merci, votre mot de passe est maintenant défini.",
+              "registration": "Merci de vous être inscrit. Pour confirmer votre adresse e-mail, nous vous avons envoyé un e-mail contenant un lien, sur lequel vous devez cliquer dans la journée.",
+              "badResponse": "Désolé, la réponse est:",
+              "plus plus",
+              "lostConnection": "Avertissement: En attente d'une bonne connexion.",
+              "blankMessage": "Attention: vous avez essayé d'envoyer un message vide.",
+              "messageQueued": "Attention: votre message 'MESSAGE' sera envoyé lorsqu'une connexion sera rétablie.",
+              "abonné": "Vous êtes abonné avec succès.",
+              "subscriptionDenied": "Désolé, vous n'êtes pas autorisé à vous abonner à ce forum."
+        }

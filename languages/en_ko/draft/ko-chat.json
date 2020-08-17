@@ -1,0 +1,10 @@
+         "en": {
+              "privateMessage": "비공개",
+              "settings": "설정",
+              "uploadImagesTitle": "이미지 업로드",
+              "uploadImagesTitleSorry": "죄송합니다 이미지 업로드는 IE10 + 또는 다른 브라우저에서만 지원됩니다.",
+              "sendTo": "보내기",
+              "emoticonsTitle": "이모티콘",
+              "helpURL": "https://atomjump.com/wp/user-guide/",
+              "helpTitle": "도움말"
+        }

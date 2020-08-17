@@ -1,0 +1,10 @@
+        "Ан": {
+              "privateMessage": "Частный",
+              "settings": "Настройки",
+              "uploadImagesTitle": "Загрузить изображения",
+              "uploadImagesTitleSorry": "Извините, загрузка изображений поддерживается только в IE10 + или любом другом браузере.",
+              "sendTo": "Отправить",
+              "emoticonsTitle": "Смайлики",
+              "helpURL": "https://atomjump.com/wp/user-guide/",
+              "helpTitle": "Помощь"
+        }
