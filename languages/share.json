@@ -1,5 +1,5 @@
 {
-	"msg": [
+	"msg": {
 		"ch": "复制和粘贴：和我一起在https://atomjump.com上聊天",
 		"cht": "複製和粘貼：和我一起在https://atomjump.com上聊天",
 		"ar": " للدردشة على https://atomjump.com",
@@ -14,5 +14,5 @@
 		"ko": "복사 및 붙여 넣기 : https://atomjump.com에서 채팅에 참여하세요.",
 		"pu": "ਕਾੱਪੀ ਅਤੇ ਪੇਸਟ ਕਰੋ: https://atomjump.com 'ਤੇ ਗੱਲਬਾਤ ਕਰਨ ਲਈ ਮੇਰੇ ਨਾਲ ਸ਼ਾਮਲ ਹੋਵੋ",
 		"ru": "Скопируйте и вставьте: присоединяйтесь ко мне в чате на https://atomjump.com"
-	]
+	}
 }
