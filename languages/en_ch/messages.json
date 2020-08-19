@@ -293,16 +293,16 @@
             "enterMobile": "输入您的手机（忽略+）",
             "privateOwners": "该论坛的订阅者",
             "privateOwnersReason": "订阅的用户列表，以逗号分隔。",
-            "privateOwnersReasonExtended": "订阅的用户电子邮件地址列表，以逗号分隔，例如 hello@atomjump.com，info@atomjump.com。输入后，您将看到例如92.27.10.17:62,92.27.10.17:7，这是用户的 识别码",
+            "privateOwnersReasonExtended": "订阅的用户电子邮件地址列表，以逗号分隔，例如hello@atomjump.com，info@atomjump.com。输入后，您将看到例如92.27.10.17:62,92.27.10.17:7，这是用户的 识别码",
             "privateOwnersEnter": "输入您的用户的电子邮件",
             "limitSubscribers": "限制订阅者",
             "limitSubscribersReason": "一个限制谁可以订阅这个论坛的网络域。",
-            "limitSubscribersReasonExtended": "一个限制谁可以订阅这个论坛的网络域。例如atomjump.com, 将允许 peter@atomjump.com，paul@atomjump.com 和 mary@atomjump.com",
+            "limitSubscribersReasonExtended": "一个限制谁可以订阅这个论坛的网络域。例如atomjump.com,将允许peter@atomjump.com，paul@atomjump.com和 mary@atomjump.com",
             "limitSubscribersEnter": "输入一个网域",
             "saveSettingsButton": "保存设置",
             "subscribeSettingsButton": "订阅",
             "loginSettingsButton": "保存/登录",
-            "tip": "提示：点击某人的名字可以私下与他们交谈。",
+            "tip": "提示：单击某人的名字可以与他们私下聊天。请参阅我们的<a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\">隐私政策</a>。",
             "getYourOwn": "获取您自己的<a target=\"_blank\" href=\"http:\/\/atomjump.org\">AtomJump 消息</a>小部件。",
             "uploadTitle": "上传",
             "selectImage": "选择图像",
@@ -330,12 +330,12 @@
 				"browserNoSupport": "对不起，此浏览器不支持图像上传。",
 				"notImage": "文件不是图像。"
             },
-             "numbers": ["零","一个","两个","三个","四个","五个","六个","七个","八个","九个",
+             "numbersWritten": ["零","一个","两个","三个","四个","五个","六个","七个","八个","九个",
             			"十","十一","十二","十三","十四","十五","十六","十七","十八","十九",
 						"二十一","二十一","二十二","二十三","二十四","二十五","二十六","二十七","二十八","二十九",
 						"三十三","三十一","三十二","三十三","三十三","三十五","三十六","三十七","三十八","三十九",
 						"四十","四十一","四十二","四十三","四十四","四十五","四十六","四十七","四十八","四十九",
-						"五十","五十一个","五十二","五十三个","五十四个","五十五个","五十六个","五十七个","五十八个","五十一个"]
+						"五十","五十一个","五十二","五十三个","五十四个","五十五个","五十六个","五十七个","五十八个","五十九个"]
         }
     }
 }
