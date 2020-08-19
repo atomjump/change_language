@@ -36,8 +36,8 @@
             "temps": {
                 "second": "sec",
                 "minute": "min",
-                "hour": "hour",
-                "day": "day",
+                "hour": "heure",
+                "day": "journée",
                 "semaine": "semaine",
                 "mois": "mois",
                 "année": "année",
