@@ -68,9 +68,7 @@
             "emailNotExist": "Désolé, cet e-mail n'existe pas.",
             "pass": {
                 "title": "Réinitialisation du mot de passe de la messagerie AtomJump",
-                "pleaseClick": "Veuillez cliquer sur le lien suivant pour effacer votre mot de passe: 
-
-",
+                "pleaseClick": "Veuillez cliquer sur le lien suivant pour effacer votre mot de passe:\n\n",
                 "checkAndClick": "Vérifiez votre messagerie et cliquez sur le lien qui y est fourni.",
                 "pleaseEnterEmail": "Veuillez saisir votre adresse e-mail ci-dessus. Cliquez ensuite ici."
             },
