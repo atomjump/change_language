@@ -1,16 +1,16 @@
          "en": {
               "defaultYourName": "Ihr Name",
               "defaultYourEmail": "Ihre E-Mail",
-              "eingeloggt": "eingeloggt. Bitte warten ..",
+              "loggedIn": "eingeloggt. Bitte warten ..",
               "passwordWrong": "Ihr Passwort ist leider nicht korrekt.",
               "forumPasswordWrong": "Entschuldigung, Ihr Forum-Passwort ist nicht korrekt.",
               "passwordStored": "Danke, Ihr Passwort ist jetzt festgelegt.",
-              "Registrierung": "Vielen Dank für Ihre Registrierung. Um Ihre E-Mail-Adresse zu bestätigen, haben wir eine E-Mail mit einem Link gesendet, auf den Sie innerhalb eines Tages klicken sollten.",
+              "registration": "Vielen Dank für Ihre Registrierung. Um Ihre E-Mail-Adresse zu bestätigen, haben wir eine E-Mail mit einem Link gesendet, auf den Sie innerhalb eines Tages klicken sollten.",
               "badResponse": "Entschuldigung, die Antwort lautet:",
-              "mehr mehr",
+              "more": "mehr",
               "lostConnection": "Warnung: Warten auf eine gute Verbindung.",
               "blankMessage": "Warnung: Sie haben versucht, eine leere Nachricht zu senden.",
               "messageQueued": "Warnung: Ihre Nachricht 'MESSAGE' wird gesendet, wenn eine Verbindung wiederhergestellt wird.",
-              "abonniert": "Sie haben erfolgreich abonniert.",
+              "subscribed": "Sie haben erfolgreich abonniert.",
               "subscriptionDenied": "Sie sind leider nicht berechtigt, dieses Forum zu abonnieren."
-        }}
+        }
