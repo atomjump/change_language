@@ -1,4 +1,5 @@
-"de": {
+{
+	"de": {
             "fullnameEnglish": "Deutsche German Beta",
             "watchMessage": "See",
             "layerName": "Popup",
@@ -11,7 +12,7 @@
                 "pleaseClick": "Hallo,\n\nWillkommen bei AtomJump Messaging. Um zu bestätigen, dass Ihre E-Mail-Adresse gültig ist, klicken Sie bitte auf den folgenden Link:\n\n",
                 "confirm": "\n\nSie haben 1 tag zeit, um dies zu bestätigen.",
                 "setupSMS": "\n\nWir empfehlen, die App 'AtomJump Messaging' auf Ihrem Telefon zu installieren, um sofortige Benachrichtigungen über neue Nachrichten zu erhalten und Verknüpfungen einzugeben. Sie können sich hier abmelden, um Benachrichtigungen jederzeit auszuschalten gehe stattdessen zu deiner e-mail.",
-                "questions": "\n\nWenn Sie Fragen oder Anregungen haben, können Sie sich gerne über unsere Hauptnachrichtentaste unter https://atomjump.com an uns wenden."
+                "questions": "\n\nWenn Sie Fragen oder Anregungen haben, können Sie sich gerne über unsere Hauptnachrichtentaste unter https://atomjump.com an uns wenden.",
                 "regards": "\n\nBeste Grüße,\nAtomJump Team",
                 "warnAdminNewUser": "Neuer Messaging-Benutzer!"
             },
@@ -108,7 +109,7 @@
             "enterEmail": "Geben Sie Ihre E-Mail ein",
             "more": "mehr",
             "yourPassword": "Your password",
-            "yourPasswordReason": "Wir verwenden dies, um Sicherheit zu bieten, wenn Sie private Nachrichten benötigen. Geben Sie dies ein und klicken Sie auf" Anmelden ".",
+            "yourPasswordReason": "Wir verwenden dies, um Sicherheit zu bieten, wenn Sie private Nachrichten benötigen. Geben Sie dies ein und klicken Sie auf Anmelden.",
             "resetPasswordLink": "reset",
             "enterPassword": "Geben Sie Ihr Passwort ein",
             "yourMobile": "Ihr volles Handy",
@@ -169,3 +170,4 @@
             "fünfzig", "einundfünfzig", "zweiundfünfzig", "dreiundfünfzig", "vierundfünfzig", "fünfundfünfzig", "sechsundfünfzig", "siebenundfünfzig", "achtundfünfzig", "neunundfünfzig", " sechzig"]
 
     }
+}
