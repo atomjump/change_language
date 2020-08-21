@@ -1,5 +1,5 @@
 "fr": {
-            "fullnameEnglish": "Anglais",
+            "fullnameEnglish": "Français French",
             "observeMessage": "Voir",
             "layerName": "Popup",
             "removeComment": "Pour supprimer ce commentaire cliquez ici",
@@ -8,17 +8,17 @@
             "invalidEmailCode": "Désolé, ce n'est pas un code valide.",
             "welcomeEmail": {
                 "title": "Bienvenue à la messagerie AtomJump",
-                "pleaseClick": "Bonjour, \ n \ nBienvenue dans AtomJump Messaging. Pour confirmer que votre adresse e-mail est valide, veuillez cliquer sur le lien suivant: \ n \ n",
-                "confirm": "\ n \ nVous aurez 1 jour pour le confirmer.",
-                "setupSMS": "\ n \ nNous vous recommandons d'installer l'application 'AtomJump Messaging' sur votre téléphone pour recevoir des notifications instantanées de nouveaux messages et entrer des raccourcis. Vous pouvez vous déconnecter d'ici pour désactiver les notifications à tout moment, et les notifications seront accédez à votre adresse e-mail à la place. ",
-                "questions": "\ n \ nSi vous avez des questions ou des suggestions, n'hésitez pas à nous contacter via notre bouton de messagerie principal à l'adresse https://atomjump.com",
-                "regards": "\ n \ n Meilleures salutations, \ nAtomJump Team",
+                "pleaseClick": "Bonjour,\n\nBienvenue dans AtomJump Messaging. Pour confirmer que votre adresse e-mail est valide, veuillez cliquer sur le lien suivant:\n\n",
+                "confirm": "\n\nVous aurez 1 jour pour le confirmer.",
+                "setupSMS": "\n\nNous vous recommandons d'installer l'application 'AtomJump Messaging' sur votre téléphone pour recevoir des notifications instantanées de nouveaux messages et entrer des raccourcis. Vous pouvez vous déconnecter d'ici pour désactiver les notifications à tout moment, et les notifications seront accédez à votre adresse e-mail à la place. ",
+                "questions": "\n\nSi vous avez des questions ou des suggestions, n'hésitez pas à nous contacter via notre bouton de messagerie principal à l'adresse https://atomjump.com",
+                "regards": "\n\nMeilleures salutations,\nAtomJump Team",
                 "warnAdminNewUser": "Nouvel utilisateur de messagerie!"
             },
             "tweetSeeReply": "voir une réponse à",
             "tweetFrom": "de",
             "tweetAlsoSentTo": "(également envoyé à @PUBLIC_TO sur Twitter)",
-            "fromShortMail": "\ n ------ \ nEnvoyé depuis AtomJump Shortmail",
+            "fromShortMail": "\n------\nEnvoyé depuis AtomJump Shortmail",
             "toReplySee": "Pour répondre, voir:",
             "replyOrChat": "Répondez à cet e-mail ou chattez en direct avec cette personne:",
             "deactivatedCheck": "Le message AtomJump a été désactivé. ID: MSG_ID. Si cela semble peu probable, vous souhaiterez peut-être vous connecter à la base de données AtomJump Messaging pour le vérifier.",
@@ -67,7 +67,9 @@
             "emailNotExist": "Désolé, cet e-mail n'existe pas.",
             "pass": {
                 "title": "Réinitialisation du mot de passe de la messagerie AtomJump",
-                "pleaseClick": "Veuillez cliquer sur le lien suivant pour effacer votre mot de passe: \ n \ n",
+                "pleaseClick": "Veuillez cliquer sur le lien suivant pour effacer votre mot de passe: 
+
+",
                 "checkAndClick": "Vérifiez votre messagerie et cliquez sur le lien qui y est fourni.",
                 "pleaseEnterEmail": "Veuillez saisir votre adresse e-mail ci-dessus. Cliquez ensuite ici."
             },
@@ -127,8 +129,8 @@
             "saveSettingsButton": "Enregistrer les paramètres",
             "subscribeSettingsButton": "S'abonner",
             "loginSettingsButton": "Enregistrer / Se connecter",
-            "tip": "Astuce: Cliquez sur le nom d'une personne pour lui parler en privé. Consultez notre <a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\"> Politique de confidentialité </a>. ",
-            "getYourOwn": "Obtenez votre propre widget de <a target=\"_blank\" href=\"http:\/\/atomjump.org\"> AtomJump Messaging </a>.",
+            "tip": "Astuce: Cliquez sur le nom d'une personne pour lui parler en privé. Consultez notre <a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\">Politique de confidentialité</a>.",
+            "getYourOwn": "Obtenez votre propre widget de <a target=\"_blank\" href=\"http:\/\/atomjump.org\">AtomJump Messaging</a>.",
             "uploadTitle": "Upload",
             "selectImage": "Sélectionner une image",
             "selectImagePrompt": "Sélectionnez votre fichier image",
@@ -136,7 +138,7 @@
             "uploadButton": "Upload",
             "uploadLimits": "Taille maximale 10 Mo. Seuls les fichiers .jpgs sont acceptés.",
             "downloadTitle": "Télécharger",
-            "downloadDescription": "Télécharger la feuille de calcul des messages <small> (doit se connecter) </small>.",
+            "downloadDescription": "Télécharger la feuille de calcul des messages <small>(doit se connecter)</small>.",
             "downloadButton": "Télécharger",
             "videoSupportedPlatforms": "Plates-formes prises en charge: Android, iPhone, iPad, Chrome, Firefox, Opera, Safari, Edge",
             "enterForumPass": "Saisir le mot de passe du groupe",
@@ -149,7 +151,7 @@
             "setForumTitleReason": "Le titre de ce forum, qui apparaît en haut de la fenêtre contextuelle.",
             "emojisTitle": "Emoji",
             "standardEmailFromName": "Utilisateur AtomJump",
-            "Photos": {
+            "photos": {
 				"largeWarning": "Attention: il s'agit d'un fichier volumineux, nous en diminuerons légèrement la qualité.",
 				"selectError": "Erreur: Désolé, nous ne pouvons pas sélectionner ce fichier. Veuillez essayer d'actualiser votre page.",
 				"browserNoSupport": "Désolé, ce navigateur ne prend pas en charge les téléchargements d'images.",
