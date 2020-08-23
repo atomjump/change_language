@@ -17,7 +17,7 @@ var lsmsg = {
               "blankMessage": "Warning: you tried to send a blank message.",
               "messageQueued": "Warning: your message 'MESSAGE' will be sent when a connection is re-established.",
               "subscribed": "You have successfully subscribed.",
-              "subscriptionDenied": "Sorry, you are not authorised to subscribe to this forum."           
+              "subscriptionDenied": "Sorry, you are not authorised to subscribe to this forum."
         },
         "ch": {
         	 "defaultYourName": "您的名字",
@@ -25,8 +25,8 @@ var lsmsg = {
               "loggedIn": "已登录。请稍候..",
               "passwordWrong": "对不起，您的密码不正确。",
               "forumPasswordWrong": "对不起，您的论坛密码不正确。",
-              "passwordStored": "谢谢，现在已设置密码。",
-              "registration": "感谢您的注册。为确认您的电子邮件地址，我们已发送了一封带有链接的电子邮件，您应该在一天之内单击该链接。",
+              "passwordStored": "谢谢，您的密码已设置。",
+              "registration": "感谢您的注册。为确认您的电子邮件地址，我们已发送了一封带有链接的电子邮件，请在一天之内单击该链接。",
               "badResponse": "对不起，响应为：",
               "more": "更多",
               "lostConnection": "警告：等待良好的连接。",
@@ -34,7 +34,7 @@ var lsmsg = {
               "messageQueued": "警告：重新建立连接后，您的消息'MESSAGE'将被发送。",
               "subscribed": "您已成功订阅。",
               "subscriptionDenied": "很抱歉，您无权订阅此论坛。"
-        }     
+        }
     }
 }
 

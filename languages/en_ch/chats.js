@@ -15,14 +15,14 @@ var lsmsg = {
         },
         "ch": {
         	"privateMessage": "私人",
-            "settings": "设定值",
-            "uploadImagesTitle": "上传图像或视频。",
-            "uploadImagesTitleSorry": "仅在IE10 +或任何其他浏览器上支持对不起的图像上载。",
+            "settings": "设置",
+            "uploadImagesTitle": "上传图片",
+            "uploadImagesTitleSorry": "对不起，仅在IE10+或其他浏览器上支持图片上传。",
             "sendTo": "发送到",
             "emoticonsTitle": "表情图标",
-             "helpURL": "https://atomjump.com/wp/user-guide/",   
-             "helpTitle": "救命"
-        }     
+             "helpURL": "https://atomjump.com/wp/user-guide/",
+             "helpTitle": "帮助"
+        }
     }
 }
 
