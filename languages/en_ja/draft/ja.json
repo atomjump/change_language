@@ -1,5 +1,5 @@
 {
-	"ja": {
+	"jp": {
             "fullnameEnglish": "日本語ベータ",
             "observeMessage":  "見る",
             "layerName":  "ポップアップ",
@@ -119,7 +119,7 @@
             "enterMobile":  "あなたの携帯電話を入力してください（+を無視してください）",
             "privateOwners":  "このフォーラムのサブスクライバー",
             "privateOwnersReason":  "購読するユーザーのコンマ区切りのリスト。",
-            "privateOwnersReasonExtended":  "サブスクライブするユーザーのメールアドレスのリスト。コンマで区切られます（例: hello@ atomjump.com、info@atomjump.com）。入力後、Eg 92.27.10.17:62,92.27.10.17:7、ユーザーのIDです ",
+            "privateOwnersReasonExtended":  "サブスクライブするユーザーのメールアドレスのリスト。コンマで区切られます（例: hello@atomjump.com、info@atomjump.com）。入力後、例えば 92.27.10.17:62,92.27.10.17:7、ユーザーのIDです ",
             "privateOwnersEnter":  "ユーザーのメールアドレスを入力してください",
             "limitSubscribers":  "サブスクライバーの制限",
             "limitSubscribersReason":  "このフォーラムにサブスクライブできるユーザーを制限するWebドメイン。",
