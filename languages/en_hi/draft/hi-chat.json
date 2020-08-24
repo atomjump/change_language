@@ -1,10 +1,12 @@
-         "एन": {
-              "प्राइवेटमैसेज": "प्राइवेट",
-              "सेटिंग": "सेटिंग",
+ {
+         "hi": {
+              "privateMessage": "प्राइवेट",
+              "settings": "सेटिंग",
               "uploadImagesTitle": "चित्र अपलोड करें",
-              "uploadImagesTitleSorry": "क्षमा करें छवि अपलोड केवल IE10 +, या किसी भी अन्य पर समर्थित हैं।"
-              "SendTo": "सेंड टू",
-              "इमोटिकॉन्स टाइटल": "इमोटिकॉन्स"
+              "uploadImagesTitleSorry": "क्षमा करें छवि अपलोड केवल IE10 +, या किसी भी अन्य पर समर्थित हैं।",
+              "sendTo": "सेंड टू",
+              "emoticonsTitle": "इमोटिकॉन्स",
               "helpURL": "https://atomjump.com/wp/user-guide/",
-              "हेल्पलाइन": "हेल्प"
+              "helpTitle": "हेल्प"
         }
+}
