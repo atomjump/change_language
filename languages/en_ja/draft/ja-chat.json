@@ -1,4 +1,5 @@
-         "en"：{
+{
+         "ja"：{
               "privateMessage"： "プライベート"、
               "設定"： "設定"、
               "uploadImagesTitle"： "画像をアップロード"、
@@ -8,3 +9,4 @@
               "helpURL"： "https://atomjump.com/wp/user-guide/"、
               "helpTitle"： "ヘルプ"
         }
+}

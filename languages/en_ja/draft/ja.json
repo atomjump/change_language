@@ -1,171 +1,173 @@
-"en"：{
-            "fullnameEnglish"： "英語"、
-            "observeMessage"： "見る"、
-            "layerName"： "ポップアップ"、
-            "removeComment"： "このコメントを削除するには、ここをクリックしてください"、
-            "newMsg"： "新しいフォーラムメッセージ"、
-            "thanksConfirmEmail"： "AtomJumpメッセージのメールアドレスをご確認いただきありがとうございます。"、
-            "invalidEmailCode"： "有効なコードではありません。"、
+{
+	"ja"：{
+            "fullnameEnglish"： "日本語ベータ",
+            "observeMessage"： "見る",
+            "layerName"： "ポップアップ",
+            "removeComment"： "このコメントを削除するには、ここをクリックしてください",
+            "newMsg"： "新しいフォーラムメッセージ",
+            "thanksConfirmEmail"： "AtomJumpメッセージのメールアドレスをご確認いただきありがとうございます。",
+            "invalidEmailCode"： "有効なコードではありません。",
             "welcomeEmail"：{
-                "タイトル"： "AtomJumpメッセージングへようこそ"、
-                "pleaseClick"： "こんにちは、\ n \ nAtomJumpメッセージングへようこそ。メールアドレスが有効であることを確認するには、次のリンクをクリックしてください：\ n \ n"、
-                "確認"： "\ n \ nこれを確認するための1日があります。"、
-                "setupSMS"： "\ n \ n「AtomJumpメッセージング」アプリを電話にインストールして、新しいメッセージの即時通知を取得し、ショートカットを入力することをお勧めします。ここからログアウトすると、いつでも通知をオフにできます。通知は代わりにメールにアクセスしてください。 "、
-                "質問"： "\ n \ n質問や提案がある場合は、https：//atomjump.comにあるメインのメッセージボタンから連絡してください。"、
-                "よろしく"： "\ n \ nよろしく、\ nAtomJumpチーム"、
+                "title"： "AtomJumpメッセージングへようこそ",
+                "pleaseClick"： "こんにちは、\ n \ nAtomJumpメッセージングへようこそ。メールアドレスが有効であることを確認するには、次のリンクをクリックしてください：\ n \ n",
+                "confirm"： "\ n \ nこれを確認するための1日があります。",
+                "setupSMS"： "\ n \ n"AtomJumpメッセージング」アプリを電話にインストールして、新しいメッセージの即時通知を取得し、ショートカットを入力することをお勧めします。ここからログアウトすると、いつでも通知をオフにできます。通知は代わりにメールにアクセスしてください。 ",
+                "questions"： "\ n \ n質問や提案がある場合は、https：//atomjump.comにあるメインのメッセージボタンから連絡してください。",
+                "regards"： "\ n \ nよろしく、\ nAtomJumpチーム",
                 "warnAdminNewUser"： "新しいメッセージングユーザー！"
-            }、
-            "tweetSeeReply"： "返信を見る"、
-            "tweetFrom"： "から"、
-            "tweetAlsoSentTo"： "（Twitterの@PUBLIC_TOにも送信されます）"、
-            "fromShortMail"： "\ n ------ \ nAtomJump Shortmailから送信"、
-            "toReplySee"： "返信するにはsee："、
-            "replyOrChat"： "このメールに返信するか、このユーザーとライブでチャット："、
-            "deactivatedCheck"： "AtomJumpメッセージが非アクティブ化されました。ID：MSG_ID。これがありそうにない場合は、AtomJumpメッセージングデータベースにログインして確認してください。"、
-            "successDeactivating"： "AtomJumpメッセージが正常に非アクティブ化されました。"、
-            "failureDeactivating"： "AtomJumpメッセージを非アクティブ化できませんでした。システム管理者に連絡してください。"、
-            "タイピング"： "<i>タイピング... </ i>"、
-            "ソーシャル"： {
-                "viaTwitter"： "Twitter経由："、
-                "viaFacebook"： "Facebook経由："、
-                "プライベート"： "プライベート"、
+            },
+            "tweetSeeReply"： "返信を見る",
+            "tweetFrom"： "から",
+            "tweetAlsoSentTo"： "（Twitterの@PUBLIC_TOにも送信されます）",
+            "fromShortMail"： "\ n ------ \ nAtomJump Shortmailから送信",
+            "toReplySee"： "返信するにはsee：",
+            "replyOrChat"： "このメールに返信するか、このユーザーとライブでチャット：",
+            "deactivatedCheck"： "AtomJumpメッセージが非アクティブ化されました。ID：MSG_ID。これがありそうにない場合は、AtomJumpメッセージングデータベースにログインして確認してください。",
+            "successDeactivating"： "AtomJumpメッセージが正常に非アクティブ化されました。",
+            "failureDeactivating"： "AtomJumpメッセージを非アクティブ化できませんでした。システム管理者に連絡してください。",
+            "typing"： "<i>タイピング...</i>",
+            "social"： {
+                "viaTwitter"： "Twitter経由：",
+                "viaFacebook"： "Facebook経由：",
+                "privately"： "プライベート",
                 "publiclyViaSocial"： "公的にソーシャルネットワーク経由"
-            }、
-            "expandLink"： "拡張"、
-            "sendCommentTo"： "コメントを送信"、
-            "時間"：{
-                "秒"： "秒"、
-                "分"： "分"、
-                "時間"： "時間"、
-                "日"： "日"、
-                "週"： "週"、
-                "月"： "月"、
-                "年"： "年"、
-                "ディケード"： "ディケイド"、
-                "秒"： "秒"、
-                "分"： "分"、
-                "時間"： "時間"、
-                "日"： "日"、
-                "週"： "週"、
-                "月"： "月"、
-                "年"： "年"、
-                "十年"： "十年"、
-                "前"： "前"
+            },
+            "expandLink"： "拡張",
+            "sendCommentTo"： "コメントを送信",
+            "time"：{
+                "second"： "秒",
+                "minute"： "分",
+                "hour"： "時間",
+                "day"： "日",
+                "week"： "週",
+                "month"： "月",
+                "year"： "年",
+                "decade"： "ディケイド",
+                "seconds"： "秒",
+                "minutes"： "分",
+                "hours"： "時間",
+                "days"： "日",
+                "weeks"： "週",
+                "months"： "月",
+                "years"： "年",
+                "decades"： "十年",
+                "ago"： "前"
                       
-            }、
-            "田畑"： {
-                "やった"、
-                "テキスト"： "テキスト"、
-                "タイムスタンプ"： "タイムスタンプ"、
-                "プライベート"： "プライベート"、
-                "センチメント"： "センチメント"
-            }、
-            "isPrivate"： "プライベート"、
-            "isPublic"： "パブリック"、
-            "passwordNotReset"： "そのリンクはパスワードをリセットしていません。もう一度やり直して、同じデバイスとブラウザーを使用していることを確認してください。"、
-            "passwordBeenResetApp"： "パスワードがリセットされました。アプリに戻って、新しいパスワードを入力してください。"、
-            "emailNotExist"： "申し訳ありません、そのメールは存在しません。"、
-            "パス"： {
-                "タイトル"： "AtomJumpメッセージングパスワードのリセット"、
-                "pleaseClick"： "次のリンクをクリックしてパスワードをクリアしてください：\ n \ n"、
-                "checkAndClick"： "メールを確認し、そこにあるリンクをクリックしてください。"、
+            },
+            "fields"： {
+                "id": "やった",
+                "text"： "テキスト",
+                "timestamp"： "タイムスタンプ",
+                "private"： "プライベート",
+                "sentiment"： "センチメント"
+            },
+            "isPrivate"： "プライベート",
+            "isPublic"： "パブリック",
+            "passwordNotReset"： "そのリンクはパスワードをリセットしていません。もう一度やり直して、同じデバイスとブラウザーを使用していることを確認してください。",
+            "passwordBeenResetApp"： "パスワードがリセットされました。アプリに戻って、新しいパスワードを入力してください。",
+            "emailNotExist"： "申し訳ありません、そのメールは存在しません。",
+            "pass"： {
+                "title"： "AtomJumpメッセージングパスワードのリセット",
+                "pleaseClick"： "次のリンクをクリックしてパスワードをクリアしてください：\ n \ n",
+                "checkAndClick"： "メールを確認し、そこにあるリンクをクリックしてください。",
                 "pleaseEnterEmail"： "上にメールアドレスを入力してください。次にここをクリックしてください。"
-            }、
-            "アノン"： "アノン"、
-            "説明"： "モバイルデバイスやデスクトップデバイスでのライブチャット、公開および非公開の投稿で機能するオープンメッセージング。サーバーをダウンロードして、独自のプラグインを記述してください。
-            "キーワード"： "メッセージング、ライブチャット、カスタマーチャット、オープンソースメッセージング"、
-            "goingFullscreen"： "SeeTalentストリーミングページが全画面表示されます。確認してください。"、
-            "goFullscreen"： "全画面表示"、
-            "feedbackOn"： "フィードバックオン.."、
-            "enterPlaceBrand"： "場所またはブランドを入力してください"、
-            "その他の製品"： "その他の製品"、
-            "著作権"： "AtomJump.com"、
-            "learnMore"： "詳細"、
-            "cannotVerifyForPayment"： "申し訳ありませんが、このユーザーはリンクの投稿時にログインしていなかったため、確認できず、支払いを行うことができません。"、
-            "enterComment"： "コメントを入力してください"、
-            "sendButton"： "送信"、
-            "sendSwitchToPrivate"： "プライベートにする"、
-            "sendSwitchToPublic"： "公開する"、
-            "sendPrivatelyButton"： "サブスクライバーに送信"、
-            "sendPubliclyButton"： "公開送信"、
-            "commentSettings"： "コメント設定"、
-            "logoutLink"： "ログアウト"、
-            "notSignedIn"： "サインインしていません"、
-            "あなたの名前"： "あなたの名前"、
-            "EnterYourName"： "あなたの名前を入力してください"、
-            "yourEmail"： "あなたのメール"、
-            "yourEmailReason"： "このフォーラムからのメッセージを購読するには、メールアドレスを入力してください。"、
-            "オプション"： "オプション"、
-            "購読"： "購読"、
-            "サブスクリプション"： "サブスクリプション"、
-            "購読解除"： "購読解除"、
-            "cannotSubscribe"： "購読できません"、
-            "購読者"： "このフォーラムの購読者"、
-            "problemUnsubscribing"： "購読の解除で問題が発生しました。もう一度やり直してください。"、
-            "successUnsubscribing"： "購読解除に成功しました。"、
-            "problemSubscribing"： "購読中に問題が発生しました。もう一度試してください。"、
-            "successSubscribing"： "購読に成功しました。"、
-            "enterEmail"： "あなたのメールアドレスを入力してください"、
-            "もっともっと"、
-            "あなたのパスワード"： "あなたのパスワード"、
-            "yourPasswordReason"： "プライベートメッセージが必要な場合にセキュリティを提供するために使用します。これを入力して[ログイン]をクリックしてください。"、
-            "resetPasswordLink"： "リセット"、
-            "enterPassword"： "パスワードを入力してください"、
-            "yourMobile"： "あなたの完全なモバイル"、
-            "yourMobileReason"： "このメッセージングフォーラムでメッセージを受信した場合、テキストメッセージにこれを使用します。コストはメッセージあたり16cです。毎月請求されます。完全な国コード（例：4412345678）を含めてください"、
-            "yourMobileLink"： "オプション、16c /テキスト"、
-            "advancedLink"： "詳細"、
-            "enterMobile"： "あなたの携帯電話を入力してください（+を無視してください）"、
-            "privateOwners"： "このフォーラムのサブスクライバー"、
-            "privateOwnersReason"： "購読するユーザーのコンマ区切りのリスト。"、
-            "privateOwnersReasonExtended"： "サブスクライブするユーザーのメールアドレスのリスト。コンマで区切られます（例：hello @ atomjump.com、info @ atomjump.com）。入力後、Eg 92.27.10.17:62,92.27.10.17:7、ユーザーのIDです "、
-            "privateOwnersEnter"： "ユーザーのメールアドレスを入力してください"、
-            "limitSubscribers"： "サブスクライバーの制限"、
-            "limitSubscribersReason"： "このフォーラムにサブスクライブできるユーザーを制限するWebドメイン。"、
-            "limitSubscribersReasonExtended"： "このフォーラムにサブスクライブできるユーザーを制限するWebドメイン。たとえば、「atomjump.com」では、peter @ atomjump.com、paul @ atomjump.com、mary @ atomjump.comが許可されます"、
-            "limitSubscribersEnter"： "ウェブドメインを入力してください"、
-            "saveSettingsButton"： "設定を保存"、
-            "subscribeSettingsButton"： "購読"、
-            "loginSettingsButton"： "保存/ログイン"、
-            "tip"： "ヒント：個人の名前をクリックすると、非公開で会話できます。<a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\">プライバシーポリシーをご覧ください</a>。 "、
-            "getYourOwn"： "独自の<a target=\"_blank\" href=\"http:\/\/atomjump.org\"> AtomJumpメッセージング</a>ウィジェットを取得します。"、
-            "uploadTitle"： "アップロード"、
-            "selectImage"： "画像を選択"、
-            "selectImagePrompt"： "画像ファイルを選択してください"、
-            "uploadingWait"： "アップロードしています。お待ちください..."、
-            "uploadButton"： "アップロード"、
-            "uploadLimits"： "最大サイズ10MB。受け入れられるのは.jpgのみです。"、
-            "downloadTitle"： "ダウンロード"、
-            "downloadDescription"： "メッセージスプレッドシートをダウンロード<small>（ログインする必要があります）</ small>。"、
-            "downloadButton"： "ダウンロード"、
-            "videoSupportedPlatforms"： "サポートされているプラ​​ットフォーム：Android、iPhone、iPad、Chrome、Firefox、Opera、Safari、Edge"、
-            "enterForumPass"： "グループパスワードを入力してください"、
-            "enterForumPassButton"： "アクセスを取得"、
-            "setForumPass"： "フォーラムのパスワードを設定"、
-            "setForumPassReason"： "このフォーラムのパスワード。パスワードを知っている人だけがプライベートアクセスできるようにします。"、
-            "setForumPassReasonExtended"： "このフォーラムのパスワード。パスワードを知っている人だけがプライベートアクセスできるようにします"、
-            "setForumPassEnter"： "パスワードを入力してください"、
-            "setForumTitle"： "フォーラムのタイトルを設定"、
-            "setForumTitleReason"： "このフォーラムのタイトル。ポップアップボックスの上部に表示されます。"、
-            "emojisTitle"： "絵文字"、
-            "standardEmailFromName"： "AtomJumpユーザー"、
-            "写真"：{
-            "largeWarning"： "警告：これは大きなファイルです。品質を少し下げます。"、
-            "selectError"： "エラー：ファイルを選択できません。ページを更新してください。"、
-            "browserNoSupport"： "申し訳ありませんが、このブラウザーは画像のアップロードをサポートしていません。"、
-            "notImage"： "ファイルは画像ではありません。"
-            }、
-            "数値"：["0"、 "1"、 "2"、 "3"、 "4"、 "5"、 "6"、 "7"、 "8"、 "9"、
-            「10」、「11」、「12」、「13」、「14」、「15」、「16」、「17」、「18」、「19」、
-            「20」、「21」、「22」、「23」、「24」、「25」、「26」、「27」、「28」、「29」、
-            「30」、「31」、「32」、「33」、「34」、「35」、「36」、「37」、「38」、「39」、
-            「40」、「41」、「42」、「43」、「44」、「45」、「46」、「47」、「48」、「49」、
-            「50」、「51」、「52」、「53」、「54」、「55」、「56」、「57」、「58」、「59」、「60」]、
-             "numbersLonghand"：["zero"、 "one"、 "two"、 "three"、 "four"、 "five"、 "six"、 "seven"、 "eight"、 "nine"、
-            「10」、「11」、「12」、「13」、「14」、「15」、「16」、「17」、「18」、「19」、
-            「twenty」、「twenty one」、「twenty two」、「twenty three」、「twenty four」、「twenty five」、「twenty six」、「twenty seven」、「twenty eight」、「twenty nine」、
-            「30」、「31」、「32」、「33」、「30 30」、「35」、「36」、「37」、「38」、「39」、
-            「フォーティー」、「フォーティーワン」、「フォーティーツー」、「フォーティースリー」、「フォーティーフォー」、「フォーティーファイブ」、「フォーティーシックス」、「フォーティーセブン」、「フォーティーエイト」、「フォーティーナイン」、
-            「五十」、「五一」、「五二」、「五三」、「五四」、「五五」、「五十六」、「五七」、「五八」、「五十九」、「 60 "]
+            },
+            "anon"： "アノン",
+            "description"： "モバイルデバイスやデスクトップデバイスでのライブチャット、公開および非公開の投稿で機能するオープンメッセージング。サーバーをダウンロードして、独自のプラグインを記述してください。
+            "keywords"： "メッセージング、ライブチャット、カスタマーチャット、オープンソースメッセージング",
+            "goingFullscreen"： "SeeTalentストリーミングページが全画面表示されます。確認してください。",
+            "goFullscreen"： "全画面表示",
+            "feedbackOn"： "フィードバックオン..",
+            "enterPlaceBrand"： "場所またはブランドを入力してください",
+            "otherProducts"： "その他の製品",
+            "copyright"： "AtomJump.com",
+            "learnMore"： "詳細",
+            "cannotVerifyForPayment"： "申し訳ありませんが、このユーザーはリンクの投稿時にログインしていなかったため、確認できず、支払いを行うことができません。",
+            "enterComment"： "コメントを入力してください",
+            "sendButton"： "送信",
+            "sendSwitchToPrivate"： "プライベートにする",
+            "sendSwitchToPublic"： "公開する",
+            "sendPrivatelyButton"： "サブスクライバーに送信",
+            "sendPubliclyButton"： "公開送信",
+            "commentSettings"： "コメント設定",
+            "logoutLink"： "ログアウト",
+            "notSignedIn"： "サインインしていません",
+            "yourName"： "あなたの名前",
+            "enterYourName"： "あなたの名前を入力してください",
+            "yourEmail"： "あなたのメール",
+            "yourEmailReason"： "このフォーラムからのメッセージを購読するには、メールアドレスを入力してください。",
+            "optional"： "オプション",
+            "subscribe"： "購読",
+            "subscription"： "サブスクリプション",
+            "unsubscribe"： "購読解除",
+            "cannotSubscribe"： "購読できません",
+            "subscribers"： "このフォーラムの購読者",
+            "problemUnsubscribing"： "購読の解除で問題が発生しました。もう一度やり直してください。",
+            "successUnsubscribing"： "購読解除に成功しました。",
+            "problemSubscribing"： "購読中に問題が発生しました。もう一度試してください。",
+            "successSubscribing"： "購読に成功しました。",
+            "enterEmail"： "あなたのメールアドレスを入力してください",
+            "more": "もっともっと",
+            "yourPassword"： "あなたのパスワード",
+            "yourPasswordReason"： "プライベートメッセージが必要な場合にセキュリティを提供するために使用します。これを入力して[ログイン]をクリックしてください。",
+            "resetPasswordLink"： "リセット",
+            "enterPassword"： "パスワードを入力してください",
+            "yourMobile"： "あなたの完全なモバイル",
+            "yourMobileReason"： "このメッセージングフォーラムでメッセージを受信した場合、テキストメッセージにこれを使用します。コストはメッセージあたり16cです。毎月請求されます。完全な国コード（例：4412345678）を含めてください",
+            "yourMobileLink"： "オプション、16c /テキスト",
+            "advancedLink"： "詳細",
+            "enterMobile"： "あなたの携帯電話を入力してください（+を無視してください）",
+            "privateOwners"： "このフォーラムのサブスクライバー",
+            "privateOwnersReason"： "購読するユーザーのコンマ区切りのリスト。",
+            "privateOwnersReasonExtended"： "サブスクライブするユーザーのメールアドレスのリスト。コンマで区切られます（例：hello @ atomjump.com、info @ atomjump.com）。入力後、Eg 92.27.10.17:62,92.27.10.17:7、ユーザーのIDです ",
+            "privateOwnersEnter"： "ユーザーのメールアドレスを入力してください",
+            "limitSubscribers"： "サブスクライバーの制限",
+            "limitSubscribersReason"： "このフォーラムにサブスクライブできるユーザーを制限するWebドメイン。",
+            "limitSubscribersReasonExtended"： "このフォーラムにサブスクライブできるユーザーを制限するWebドメイン。たとえば、"atomjump.com」では、peter @ atomjump.com、paul @ atomjump.com、mary @ atomjump.comが許可されます",
+            "limitSubscribersEnter"： "ウェブドメインを入力してください",
+            "saveSettingsButton"： "設定を保存",
+            "subscribeSettingsButton"： "購読",
+            "loginSettingsButton"： "保存/ログイン",
+            "tip"： "ヒント：個人の名前をクリックすると、非公開で会話できます。<a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\">プライバシーポリシーをご覧ください</a>。 ",
+            "getYourOwn"： "独自の<a target=\"_blank\" href=\"http:\/\/atomjump.org\"> AtomJumpメッセージング</a>ウィジェットを取得します。",
+            "uploadTitle"： "アップロード",
+            "selectImage"： "画像を選択",
+            "selectImagePrompt"： "画像ファイルを選択してください",
+            "uploadingWait"： "アップロードしています。お待ちください...",
+            "uploadButton"： "アップロード",
+            "uploadLimits"： "最大サイズ10MB。受け入れられるのは.jpgのみです。",
+            "downloadTitle"： "ダウンロード",
+            "downloadDescription"： "メッセージスプレッドシートをダウンロード<small>（ログインする必要があります）</ small>。",
+            "downloadButton"： "ダウンロード",
+            "videoSupportedPlatforms"： "サポートされているプラ​​ットフォーム：Android、iPhone、iPad、Chrome、Firefox、Opera、Safari、Edge",
+            "enterForumPass"： "グループパスワードを入力してください",
+            "enterForumPassButton"： "アクセスを取得",
+            "setForumPass"： "フォーラムのパスワードを設定",
+            "setForumPassReason"： "このフォーラムのパスワード。パスワードを知っている人だけがプライベートアクセスできるようにします。",
+            "setForumPassReasonExtended"： "このフォーラムのパスワード。パスワードを知っている人だけがプライベートアクセスできるようにします",
+            "setForumPassEnter"： "パスワードを入力してください",
+            "setForumTitle"： "フォーラムのタイトルを設定",
+            "setForumTitleReason"： "このフォーラムのタイトル。ポップアップボックスの上部に表示されます。",
+            "emojisTitle"： "絵文字",
+            "standardEmailFromName"： "AtomJumpユーザー",
+            "photos"：{
+				"largeWarning"： "警告：これは大きなファイルです。品質を少し下げます。",
+				"selectError"： "エラー：ファイルを選択できません。ページを更新してください。",
+				"browserNoSupport"： "申し訳ありませんが、このブラウザーは画像のアップロードをサポートしていません。",
+				"notImage"： "ファイルは画像ではありません。"
+            },
+            "numbers"：["0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
+            "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", 
+            "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", 
+            "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", 
+            "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", 
+            "50", "51", "52", "53", "54", "55", "56", "57", "58", "59", "60」]、
+             "numbersLonghand"：["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
+            "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", 
+            "twenty", "twenty one", "twenty two", "twenty three", "twenty four", "twenty five", "twenty six", "twenty seven", "twenty eight", "twenty nine", 
+            "30", "31", "32", "33", "30 30", "35", "36", "37", "38", "39", 
+            "フォーティー", "フォーティーワン", "フォーティーツー", "フォーティースリー", "フォーティーフォー", "フォーティーファイブ", "フォーティーシックス", "フォーティーセブン", "フォーティーエイト", "フォーティーナイン", 
+            "五十", "五一", "五二", "五三", "五四", "五五", "五十六", "五七", "五八", "五十九", " 60 "]
 
     }
+}
