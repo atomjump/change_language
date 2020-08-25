@@ -1,6 +1,7 @@
-"en": {
-            "fullnameEnglish": "English",
-            "observasiMessage": "Lihat",
+{
+	"in": {
+            "fullnameEnglish": "Indonesia Beta",
+            "observeMessage": "Lihat",
             "layerName": "Popup",
             "removeComment": "Untuk menghapus komentar ini klik di sini",
             "newMsg": "Pesan forum baru dari",
@@ -11,7 +12,7 @@
                 "pleaseClick": "Halo, \ n \ nSelamat datang di Pesan AtomJump. Untuk mengonfirmasi bahwa alamat email Anda valid, silakan klik link berikut: \ n \ n",
                 "confirm": "\ n \ nAnda memiliki waktu 1 hari untuk mengkonfirmasi ini.",
                 "setupSMS": "\ n \ nKami akan merekomendasikan menginstal aplikasi 'AtomJump Messaging' di ponsel Anda untuk mendapatkan pemberitahuan instan tentang pesan baru, dan memasukkan pintasan. Anda dapat keluar dari sini untuk mematikan pemberitahuan kapan saja, dan pemberitahuan akan buka email Anda sebagai gantinya. ",
-                "pertanyaan": "\ n \ nJika Anda memiliki pertanyaan atau saran, silakan hubungi melalui tombol pesan utama kami di https://atomjump.com",
+                "questions": "\ n \ nJika Anda memiliki pertanyaan atau saran, silakan hubungi melalui tombol pesan utama kami di https://atomjump.com",
                 "regards": "\ n \ nHormat kami, \ nTim AtomJump",
                 "warnAdminNewUser": "Pengguna Pesan Baru!"
             },
@@ -24,48 +25,48 @@
             "deactivatedCheck": "Pesan AtomJump telah dinonaktifkan. ID: MSG_ID. Jika sepertinya tidak mungkin, Anda mungkin ingin masuk ke db Pesan AtomJump untuk memeriksanya.",
             "successDeactivating": "Anda telah berhasil menonaktifkan Pesan AtomJump.",
             "failureDeactivating": "Maaf kami tidak dapat menonaktifkan Pesan AtomJump. Silakan hubungi admin sistem.",
-            "mengetik": "<i> Mengetik ... </i>",
-            "sosial": {
+            "typing": "<i>Mengetik...</i>",
+            "social": {
                 "viaTwitter": "Melalui Twitter:",
                 "viaFacebook": "Melalui Facebook:",
-                "secara pribadi": "secara pribadi",
-                "publicViaSocial": "secara publik melalui jaringan sosial"
+                "privately": "secara pribadi",
+                "publiclyViaSocial": "secara publik melalui jaringan sosial"
             },
             "expandLink": "Luaskan",
             "sendCommentTo": "Kirim komentar ke",
-            "waktu": {
-                "kedua": "detik",
-                "menit": "menit",
-                "jam": "jam",
-                "hari": "hari",
-                "minggu": "minggu",
-                "bulan": "bulan",
-                "tahun": "tahun",
-                "dekade": "dekade",
-                "detik": "detik",
-                "menit": "menit",
-                "jam": "jam",
-                "hari": "hari",
-                "minggu": "minggu",
-                "bulan": "bulan",
-                "tahun": "tahun",
-                "dekade": "dekade",
-                "lalu": ​​"lalu"
+            "time": {
+                "second": "kedua",
+                "minute": "menit",
+                "hour": "jam",
+                "day": "hari",
+                "week": "minggu",
+                "month": "bulan",
+                "year": "tahun",
+                "decade": "dekade",
+                "seconds": "detik",
+                "minutes": "menit",
+                "hours": "jam",
+                "days": "hari",
+                "weeks": "minggu",
+                "months": "bulan",
+                "years": "tahun",
+                "decades": "dekade",
+                "ago": ​​"lalu"
                       
             },
-            "bidang": {
-                "aku melakukannya",
-                "teks": "teks",
+            "fields": {
+                "id": "id",
+                "text": "teks",
                 "timestamp": "timestamp",
-                "pribadi": "pribadi",
-                "sentimen": "sentimen"
+                "private": "pribadi",
+                "sentiment": "sentimen"
             },
             "isPrivate": "private",
             "isPublic": "public",
             "passwordNotReset": "Maaf, tautan itu belum menyetel ulang sandi Anda. Harap coba lagi, dan pastikan Anda menggunakan perangkat dan browser yang sama.",
             "passwordBeenResetApp": "Kata sandi Anda telah disetel ulang, silakan kembali ke aplikasi Anda, dan masukkan kata sandi baru.",
             "emailNotExist": "Maaf, email itu tidak ada.",
-            "lulus": {
+            "pass": {
                 "title": "AtomJump Messaging password reset",
                 "pleaseClick": "Silakan klik tautan berikut untuk menghapus kata sandi Anda: \ n \ n",
                 "checkAndClick": "Periksa email Anda dan klik tautan yang disediakan di sana.",
@@ -73,15 +74,15 @@
             },
             "anon": "Anon",
             "description": "Buka perpesanan yang berfungsi, dengan obrolan langsung, pos publik & pribadi di semua perangkat seluler atau desktop. Unduh server dan tulis plugin Anda sendiri.",
-            "kata kunci": "Perpesanan, Obrolan Langsung, Obrolan Pelanggan, Perpesanan Sumber Terbuka",
+            "keywords": "Perpesanan, Obrolan Langsung, Obrolan Pelanggan, Perpesanan Sumber Terbuka",
             "goingFullscreen": "Halaman streaming SeeTalent akan menjadi layar penuh. Harap konfirmasi.",
             "goFullscreen": "Go Full-screen",
             "feedbackOn": "Feedback On ..",
             "enterPlaceBrand": "Masukkan tempat atau merek",
             "otherProducts": "Produk Lain",
-            "hak cipta": "AtomJump.com",
+            "copyright": "AtomJump.com",
             "learnMore": "Pelajari Lebih Lanjut",
-            "can'tVerifyForPayment": "Maaf, pengguna ini tidak masuk saat memposting tautan, oleh karena itu kami tidak dapat memverifikasi mereka dan mengizinkan Anda untuk melakukan pembayaran.",
+            "cannotVerifyForPayment": "Maaf, pengguna ini tidak masuk saat memposting tautan, oleh karena itu kami tidak dapat memverifikasi mereka dan mengizinkan Anda untuk melakukan pembayaran.",
             "enterComment": "Masukkan komentar Anda",
             "sendButton": "Send",
             "sendSwitchToPrivate": "Gunakan Pribadi",
@@ -93,26 +94,26 @@
             "notSignedIn": "Tidak Masuk",
             "yourName": "Nama Anda",
             "enterYourName": "Masukkan nama Anda",
-            "emailAnda": "Email Anda",
-            "YourEmailReason": "Masukkan email Anda untuk berlangganan pesan dari forum ini.",
-            "opsional": "opsional",
-            "berlangganan": "berlangganan",
-            "langganan": "langganan",
+            "yourEmail": "Email Anda",
+            "yourEmailReason": "Masukkan email Anda untuk berlangganan pesan dari forum ini.",
+            "optional": "opsional",
+            "subscribe": "berlangganan",
+            "subscription": "langganan",
             "unsubscribe": "unsubscribe",
-            "tidak dapat berlangganan": "tidak dapat berlangganan",
-            "subscriber": "subscriber (s) of this forum.",
+            "cannotSubscribe": "tidak dapat berlangganan",
+            "subscribers": "subscriber (s) of this forum.",
             "problemUnsubscribing": "Maaf, ada masalah saat berhenti berlangganan. Silakan coba lagi.",
             "successUnsubscribing": "Berhasil berhenti berlangganan.",
             "problemSubscribing": "Maaf ada masalah saat berlangganan. Silakan coba lagi.",
             "successSubscribing": "Berhasil berlangganan.",
             "enterEmail": "Masukkan email Anda",
-            "lebih": "Lainnya",
+            "more": "Lainnya",
             "yourPassword": "YourPassword",
             "yourPasswordReason": "Kami menggunakan ini untuk memberikan keamanan jika Anda memerlukan pesan pribadi. Masukkan ini, dan klik login.",
             "resetPasswordLink": "reset",
             "enterPassword": "Masukkan sandi Anda",
             "yourMobile": "Ponsel lengkap Anda",
-            "YourMobileReason": "Kami menggunakan ini untuk mengirimi Anda SMS jika Anda menerima pesan di forum perpesanan ini. Perhatikan biayanya adalah 16c per pesan. Kami menagih setiap bulan. Harap sertakan kode negara lengkap Anda mis. 4412345678",
+            "yourMobileReason": "Kami menggunakan ini untuk mengirimi Anda SMS jika Anda menerima pesan di forum perpesanan ini. Perhatikan biayanya adalah 16c per pesan. Kami menagih setiap bulan. Harap sertakan kode negara lengkap Anda mis. 4412345678",
             "yourMobileLink": "opsional, 16c / teks",
             "advancedLink": "Advanced",
             "enterMobile": "Masukkan ponsel Anda (abaikan +)",
@@ -149,11 +150,11 @@
             "setForumTitleReason": "Judul forum ini, yang muncul di bagian atas kotak munculan.",
             "emojisTitle": "Emoji",
             "standardEmailFromName": "AtomJump User",
-            "foto": {
-            "largeWarning": "Peringatan: Ini adalah file besar, kami akan mengurangi kualitasnya sedikit.",
-            "selectError": "Error: Maaf, kami tidak dapat memilih file itu. Silakan coba segarkan halaman Anda.",
-            "browserNoSupport": "Maaf, browser ini tidak mendukung pengunggahan gambar.",
-            "notImage": "file bukan gambar."
+            "photos": {
+				"largeWarning": "Peringatan: Ini adalah file besar, kami akan mengurangi kualitasnya sedikit.",
+				"selectError": "Error: Maaf, kami tidak dapat memilih file itu. Silakan coba segarkan halaman Anda.",
+				"browserNoSupport": "Maaf, browser ini tidak mendukung pengunggahan gambar.",
+				"notImage": " file bukan gambar."
             },
             "angka": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9",
             "10", "11", "12", "13", "14", "15", "16", "17", "18", "19",
@@ -169,3 +170,4 @@
             "lima puluh", "lima puluh satu", "lima puluh dua", "lima puluh tiga", "lima puluh empat", "lima puluh lima", "lima puluh enam", "lima puluh tujuh", "lima puluh delapan", "lima puluh sembilan", " enam puluh "]
 
     }
+}
