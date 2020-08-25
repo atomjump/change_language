@@ -1,16 +1,18 @@
-         "En": {
+{
+         "it": {
               "defaultYourName": "Il tuo nome",
               "defaultYourEmail": "La tua email",
-              "loggato": "Accesso effettuato. Attendi ..",
+              "loggedIn": "Accesso effettuato. Attendi ..",
               "passwordWrong": "Spiacenti, la tua password non è corretta.",
               "forumPasswordWrong": "Siamo spiacenti, la password del forum non è corretta.",
               "passwordStored": "Grazie, la tua password è ora impostata.",
               "registration": "Grazie per esserti registrato. Per confermare il tuo indirizzo e-mail abbiamo inviato un'e-mail con un collegamento, su cui devi fare clic entro un giorno.",
               "badResponse": "Spiacenti, la risposta è:",
-              "di più di più",
+              "more": "di più",
               "lostConnection": "Avviso: in attesa di una buona connessione.",
               "blankMessage": "Attenzione: hai tentato di inviare un messaggio vuoto.",
-              "messageQueued": "Attenzione: il tuo messaggio" MESSAGE "verrà inviato quando verrà ristabilita la connessione.",
-              "iscritto": "Ti sei iscritto con successo.",
+              "messageQueued": "Attenzione: il tuo messaggio 'MESSAGE' verrà inviato quando verrà ristabilita la connessione.",
+              "subscribed": "Ti sei iscritto con successo.",
               "subscriptionDenied": "Spiacenti, non sei autorizzato a iscriverti a questo forum."
         }
+}
