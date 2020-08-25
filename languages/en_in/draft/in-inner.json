@@ -1,6 +1,6 @@
 {
          "in": {
-              "defaultYourName": "Your Name",
+              "defaultYourName": "Namamu",
               "defaultYourEmail": "Email Anda",
               "login": "Sudah masuk. Harap tunggu ..",
               "passwordWrong": "Maaf, password anda salah.",
