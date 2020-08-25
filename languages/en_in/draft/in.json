@@ -51,8 +51,7 @@
                 "months": "bulan",
                 "years": "tahun",
                 "decades": "dekade",
-                "ago": ​​"lalu"
-                      
+                "ago": "lalu"                      
             },
             "fields": {
                 "id": "id",
