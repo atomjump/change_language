@@ -1,16 +1,18 @@
-         "en": {
+{
+         "in": {
               "defaultYourName": "Your Name",
               "defaultYourEmail": "Email Anda",
-              "login": "Login. Harap tunggu ..",
+              "login": "Sudah masuk. Harap tunggu ..",
               "passwordWrong": "Maaf, password anda salah.",
               "forumPasswordWrong": "Maaf, kata sandi forum Anda salah.",
               "passwordStored": "Terima kasih, sandi Anda sekarang telah disetel.",
-              "pendaftaran": "Terima kasih telah mendaftar. Untuk mengonfirmasi alamat email Anda, kami telah mengirimkan email dengan tautan di dalamnya, yang harus Anda klik dalam satu hari.",
+              "registration": "Terima kasih telah mendaftar. Untuk mengonfirmasi alamat email Anda, kami telah mengirimkan email dengan tautan di dalamnya, yang harus Anda klik dalam satu hari.",
               "badResponse": "Maaf, tanggapannya:",
-              "lebih": "Lainnya",
+              "more": "Lebih",
               "lostConnection": "Peringatan: Menunggu koneksi yang baik.",
               "blankMessage": "Peringatan: Anda mencoba mengirim pesan kosong.",
               "messageQueued": "Peringatan: pesan 'MESSAGE' Anda akan dikirim saat koneksi tersambung kembali.",
-              "berlangganan": "Anda berhasil berlangganan.",
+              "subscribed": "Anda berhasil berlangganan.",
               "subscriptionDenied": "Maaf, Anda tidak diizinkan untuk berlangganan forum ini."
         }
+}

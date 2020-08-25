@@ -1,6 +1,7 @@
-         "en": {
+{
+         "in": {
               "privateMessage": "Pribadi",
-              "pengaturan": "Pengaturan",
+              "settings": "Pengaturan",
               "uploadImagesTitle": "Unggah gambar",
               "uploadImagesTitleSorry": "Maaf, unggahan gambar hanya didukung di IE10 +, atau browser lainnya.",
               "sendTo": "Send to",
@@ -8,3 +9,4 @@
               "helpURL": "https://atomjump.com/wp/user-guide/",
               "helpTitle": "Bantuan"
         }
+}
