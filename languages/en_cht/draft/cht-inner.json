@@ -1,16 +1,18 @@
-         “ zh”：{
-              “ defaultYourName”：“您的名字”，
-              “ defaultYourEmail”：“您的電子郵件”，
-              “ loggedIn”：“已登錄。請稍候..”，
-              “ passwordWrong”：“對不起，您的密碼不正確。”，
-              “ forumPasswordWrong”：“對不起，您的論壇密碼不正確。”，
-              “ passwordStored”：“謝謝，現在已經設置了密碼。”，
-              “ registration”：“謝謝您的註冊。為了確認您的電子郵件地址，我們已發送了一封電子郵件，其中包含一個鏈接，您應該在一天之內單擊該鏈接。”，
-              “ badResponse”：“對不起，響應為：”，
-              “更多”：“更多”，
-              “ lostConnection”：“警告：等待良好的連接。”，
-              “ blankMessage”：“警告：您試圖發送空白消息。”，
-              “ messageQueued”：“警告：重新建立連接後，您的消息'MESSAGE'將被發送。”，
-              “ subscribed”：“您已成功訂閱。”，
-              “ subscriptionDenied”：“很抱歉，您無權訂閱此論壇。”
+{
+         "cht":{
+              "defaultYourName":"您的名字",
+              "defaultYourEmail":"您的電子郵件",
+              "loggedIn":"已登錄。請稍候..",
+              "passwordWrong":"對不起，您的密碼不正確。",
+              "forumPasswordWrong":"對不起，您的論壇密碼不正確。",
+              "passwordStored":"謝謝，現在已經設置了密碼。",
+              "registration":"謝謝您的註冊。為了確認您的電子郵件地址，我們已發送了一封電子郵件，其中包含一個鏈接，您應該在一天之內單擊該鏈接。",
+              "badResponse":"對不起，響應為:",
+              "more":"更多",
+              "lostConnection":"警告:等待良好的連接。",
+              "blankMessage":"警告:您試圖發送空白消息。",
+              "messageQueued":"警告:重新建立連接後，您的消息'MESSAGE'將被發送。",
+              "subscribed":"您已成功訂閱。",
+              "subscriptionDenied":"很抱歉，您無權訂閱此論壇。"
         }
+}
