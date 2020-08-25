@@ -1,4 +1,5 @@
-         "en": {
+{
+         "ko": {
               "privateMessage": "비공개",
               "settings": "설정",
               "uploadImagesTitle": "이미지 업로드",
@@ -8,3 +9,4 @@
               "helpURL": "https://atomjump.com/wp/user-guide/",
               "helpTitle": "도움말"
         }
+}
