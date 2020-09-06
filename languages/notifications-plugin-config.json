@@ -1,0 +1,45 @@
+{
+    "serverPath": "your_path/loop-server/",
+    "apiKey": "AIzaSyD8TEjhUQDDUQirNIVMdVaHPsnLxt-ygjc",
+    "staging": true,
+    "iosAppLink": "https://itunes.apple.com/us/app/atomjump-messaging/id1153387200?ls=1&mt=8",
+    "androidAppLink": "https://play.google.com/store/apps/details?id=com.atomjump.messaging",
+    "msgs": {
+        "en":{
+        	"getPopupNotifications": "Get popup notifications:",
+        	"privateServerNote": "Note: Please set the 'Private Server' in your app login screen as:",
+        	"notLoggedIn": "Sorry, please login to your messaging forum and try again.",
+        	"backHome": "Back to Home",
+        	"appDeregistered": "Your app is now deregistered to this server. You will only receive email notifications.",
+        	"deregister": "Deregister (use email notifications)",
+        	"appRegistered": "Your app is now registered to this server with the email "
+        },
+        "es":{
+        	"getPopupNotifications": "Recibe notificaciones emergentes:",
+        	"privateServerNote": "Nota: Configure el 'Servidor privado' en la pantalla de inicio de sesión de su aplicación como:",
+        	"notLoggedIn": "Lo sentimos, ingrese a su foro de mensajes e intente nuevamente.",
+        	"backHome": "De vuelta a casa",
+        	"appDeregistered": "Su aplicación ahora está anulada en este servidor. Solo recibirá notificaciones por correo electrónico.",
+        	"deregister": "Darse de baja (usar notificaciones por correo electrónico)",
+        	"appRegistered": "Su aplicación ahora está registrada en este servidor con el correo electrónico "
+        },
+        "pt": {
+        	"getPopupNotifications": "Receba notificações pop-up:",
+        	"privateServerNote": "Nota: Defina o 'Servidor privado' na tela de login do seu aplicativo como:",
+        	"notLoggedIn": "Desculpe, faça login no seu fórum de mensagens e tente novamente.",
+        	"backHome": "Voltar à página inicial",
+        	"appDeregistered": "Seu aplicativo agora está cancelado o registro neste servidor. Você receberá apenas notificações por email.",
+        	"deregister": "Cancelar registro (usar notificações por email)",
+        	"appRegistered": "Your app is now registered to this server and email:"
+        },
+        "hi": {
+            "getPopupNotifications": "पॉपअप सूचनाएं प्राप्त करें:",
+            "privateServerNote": "नोट: कृपया अपने निजी लॉगिन स्क्रीन में 'प्राइवेट सर्वर' को इस रूप में सेट करें:",
+            "notLoggedIn": "क्षमा करें, कृपया अपने मैसेजिंग फ़ोरम में लॉगिन करें और पुनः प्रयास करें।",
+            "backHome": "बैक टू होम",
+            "appDeregistered": "आपका ऐप अब इस सर्वर पर deregistered है। आपको केवल ईमेल सूचनाएं प्राप्त होंगी",
+            "deregister": "डेरेगिस्टर (ईमेल सूचनाओं का उपयोग करें)",
+            "appRegistered": "आपका ऐप अब ईमेल के साथ इस सर्वर पर पंजीकृत है"        
+        }
+    }
+}
