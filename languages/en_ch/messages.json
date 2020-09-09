@@ -325,10 +325,10 @@
             "emojisTitle": "表情符号",
             "standardEmailFromName": "AtomJump用户",
             "photos":  {
-				"largeWarning": "警告：这是一个大文件，我们将略微降低质量。",
-				"selectError": "错误：对不起，我们无法选择该文件。请尝试刷新您的页面。",
-				"browserNoSupport": "对不起，此浏览器不支持图像上传。",
-				"notImage": "文件不是图像。"
+					"largeWarning": "警告：这是一个大文件，我们将略微降低质量。",
+					"selectError": "错误：对不起，我们无法选择该文件。请尝试刷新您的页面。",
+					"browserNoSupport": "对不起，此浏览器不支持图像上传。",
+					"notImage": "文件不是图像。"
             },
             "numbersLonghand": ["零","一个","两个","三个","四个","五个","六个","七个","八个","九个",
             			"十","十一","十二","十三","十四","十五","十六","十七","十八","十九",

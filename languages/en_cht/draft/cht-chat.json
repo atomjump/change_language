@@ -1,11 +1,11 @@
 {
          "cht":{
               "privateMessage":"私人",
-              "settings":"設定值",
+              "settings":"設置",
               "uploadImagesTitle":"上傳圖片",
-              "uploadImagesTitleSorry":"僅在IE10 +或任何其他瀏覽器上支持對不起的圖像上傳。",
+              "uploadImagesTitleSorry":"對不起，僅在IE10+或其他瀏覽器上支持圖片上傳。",
               "sendTo":"發送到",
-              "emoticonsTitle":"表情符號",
+              "emoticonsTitle":"表情圖標",
               "helpURL":"https://atomjump.com/wp/user-guide/",
               "helpTitle":"幫助"
         }
