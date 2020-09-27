@@ -134,7 +134,7 @@ var lsmsg = {
               "helpTitle": "Aiuto"
         },
         "in": {
-              "privateMessage": "Pribadi",
+              "privateMessage": "Pesan Pribadi",
               "settings": "Pengaturan",
               "uploadImagesTitle": "Unggah gambar",
               "uploadImagesTitleSorry": "Maaf, unggahan gambar hanya didukung di IE10 +, atau browser lainnya.",
