@@ -2,7 +2,7 @@
 * German __de__ Deutsche
 * French   __fr__   Français
 * Japanese __ja__ 日本語
-* Chinese (Simplified) __ch__ 中国語（簡体字）
+* Chinese (Simplified) __ch__ 简体中文
 * Chinese (Traditional) __cht__ 中国の伝統的な
 * Italian __it__ Italiano
 * Bengali __bg__ বাংলা
