@@ -8,4 +8,8 @@
 * Bengali bg বাংলা
 * Korean ko 한국어
 * Russian ru русский
-* 
+* Spanish es Español
+* Portuguese pt Português
+* Hindi hi हिंदी
+* Punjabi pu ਪੰਜਾਬੀ
+
