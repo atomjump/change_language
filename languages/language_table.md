@@ -1,15 +1,15 @@
-* English  en   English
-* German de Deutsche
-* French   fr   Français
-* Japanese ja 日本語
-* Chinese (Simplified) ch 中国語（簡体字）
-* Chinese (Traditional) cht 中国の伝統的な
-* Italian it Italiano
-* Bengali bg বাংলা
-* Korean ko 한국어
-* Russian ru русский
-* Spanish es Español
-* Portuguese pt Português
-* Hindi hi हिंदी
-* Punjabi pu ਪੰਜਾਬੀ
-* Indonesian in  bahasa Indonesia
+* English  __en__   English
+* German __de__ Deutsche
+* French   __fr__   Français
+* Japanese __ja__ 日本語
+* Chinese (Simplified) __ch__ 中国語（簡体字）
+* Chinese (Traditional) __cht__ 中国の伝統的な
+* Italian __it__ Italiano
+* Bengali __bg__ বাংলা
+* Korean __ko__ 한국어
+* Russian __ru__ русский
+* Spanish __es__ Español
+* Portuguese __pt__ Português
+* Hindi __hi__ हिंदी
+* Punjabi __pu__ ਪੰਜਾਬੀ
+* Indonesian __in__  bahasa Indonesia
