@@ -20,7 +20,7 @@ var lsmsg = {
             "uploadImagesTitleSorry": "对不起，仅在IE10+或其他浏览器上支持图片上传。",
             "sendTo": "发送到",
             "emoticonsTitle": "表情图标",
-             "helpURL": "https://atomjump.com/wp/user-guide/",
+             "helpURL": "https://atomjump.com/wp/user-guide-ch/",
              "helpTitle": "帮助"
         }
     }

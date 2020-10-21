@@ -20,7 +20,7 @@ var lsmsg = {
               "uploadImagesTitleSorry": "La subida de imágenes Lo siento, sólo se admiten en IE10+, o cualquier otro navegador.",
               "sendTo": "Enviar a",
               "emoticonsTitle": "Emoticonos",
-              "helpURL": "https://atomjump.com/wp/user-guide/",
+              "helpURL": "https://atomjump.com/wp/user-guide-es/",
               "helpTitle": "Ayuda"
         }   
     }
