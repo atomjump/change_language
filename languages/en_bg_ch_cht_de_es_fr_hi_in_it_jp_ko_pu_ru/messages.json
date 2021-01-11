@@ -158,7 +158,8 @@
             	"selectError": "Error: Sorry, we cannot select that file. Please try refreshing your page.",
             	"browserNoSupport": "Sorry, this browser does not support image uploads.",
             	"notImage": " file is not an image."
-            }
+            },
+            "tooManyConcurrentUsers": "Sorry, there are too many people trying to use this forum at once. Please come back and try again later."
         },
 		"es": {
 			"fullnameEnglish": "Español Beta",
@@ -316,7 +317,9 @@
             	"selectError": "Error: Lo sentimos, no podemos seleccionar ese archivo. Intenta actualizar tu página.",
             	"browserNoSupport": "Lo sentimos, este navegador no admite la carga de imágenes.",
             	"notImage": " el archivo no es una imagen."
-            }
+            },
+            "tooManyConcurrentUsers": "Lo sentimos, hay demasiadas personas intentando usar este foro a la vez. Por favor vuelva e inténtelo más tarde."
+            
 		},
 		"pt":{
             "fullnameEnglish": "Português Beta",
@@ -472,7 +475,8 @@
             	"selectError": "Erro: Desculpe, não podemos selecionar esse arquivo. Tente atualizar sua página.",
             	"browserNoSupport": "Desculpe, este navegador não suporta uploads de imagens.",
             	"notImage": " arquivo não é uma imagem."
-            }
+            },
+            "tooManyConcurrentUsers": "Desculpe, há muitas pessoas tentando usar este fórum ao mesmo tempo. Por favor, volte e tente novamente mais tarde."
         },
         "ch":{
             "fullnameEnglish": "简体中文测试版",
@@ -636,7 +640,8 @@
 						"二十一","二十一","二十二","二十三","二十四","二十五","二十六","二十七","二十八","二十九",
 						"三十三","三十一","三十二","三十三","三十三","三十五","三十六","三十七","三十八","三十九",
 						"四十","四十一","四十二","四十三","四十四","四十五","四十六","四十七","四十八","四十九",
-						"五十","五十一个","五十二","五十三个","五十四个","五十五个","五十六个","五十七个","五十八个","五十九个"]
+						"五十","五十一个","五十二","五十三个","五十四个","五十五个","五十六个","五十七个","五十八个","五十九个"],
+            "tooManyConcurrentUsers": "抱歉，有太多人试图同时使用此论坛。 请回来，稍后再试。"
         },
         "de": {
             "fullnameEnglish": "Deutsche Beta",
@@ -806,7 +811,8 @@
             "zwanzig", "einundzwanzig", "zweiundzwanzig", "dreiundzwanzig", "vierundzwanzig", "fünfundzwanzig", "sechsundzwanzig", "siebenundzwanzig", "achtundzwanzig", "neunundzwanzig",
             "dreißig", "einunddreißig", "zweiunddreißig", "dreiunddreißig", "dreißig dreißig", "fünfunddreißig", "sechsunddreißig", "siebenunddreißig", "achtunddreißig", "neununddreißig",
             "vierzig", "einundvierzig", "zweiundvierzig", "dreiundvierzig", "vierundvierzig", "fünfundvierzig", "sechsundvierzig", "siebenundvierzig", "achtundvierzig", "neunundvierzig",
-            "fünfzig", "einundfünfzig", "zweiundfünfzig", "dreiundfünfzig", "vierundfünfzig", "fünfundfünfzig", "sechsundfünfzig", "siebenundfünfzig", "achtundfünfzig", "neunundfünfzig", " sechzig"]
+            "fünfzig", "einundfünfzig", "zweiundfünfzig", "dreiundfünfzig", "vierundfünfzig", "fünfundfünfzig", "sechsundfünfzig", "siebenundfünfzig", "achtundfünfzig", "neunundfünfzig", " sechzig"],
+            "tooManyConcurrentUsers": "Entschuldigung, es gibt zu viele Leute, die versuchen, dieses Forum gleichzeitig zu nutzen. Bitte kommen Sie zurück und versuchen Sie es später erneut."
 
     },
     	"fr": {
@@ -977,7 +983,8 @@
             "vingt", "vingt et un", "vingt-deux", "vingt-trois", "vingt-quatre", "vingt-cinq", "vingt-six", "vingt-sept", "vingt-huit", "vingt-neuf",
             "trente", "trente et un", "trente-deux", "trente-trois", "trente trente", "trente cinq", "trente six", "trente-sept", "trente huit", "trente neuf",
             "quarante", "quarante et un", "quarante-deux", "quarante-trois", "quarante-quatre", "quarante-cinq", "quarante-six", "quarante-sept", "quarante-huit", "quarante-neuf",
-            "cinquante", "cinquante et un", "cinquante-deux", "cinquante-trois", "cinquante-quatre", "cinquante-cinq", "cinquante-six", "cinquante-sept", "cinquante-huit", "cinquante-neuf", "soixante"]
+            "cinquante", "cinquante et un", "cinquante-deux", "cinquante-trois", "cinquante-quatre", "cinquante-cinq", "cinquante-six", "cinquante-sept", "cinquante-huit", "cinquante-neuf", "soixante"],
+            "tooManyConcurrentUsers": "Désolé, trop de personnes essaient d'utiliser ce forum à la fois. Veuillez revenir et réessayer plus tard."
 
     },
     	"hi": {
@@ -1148,7 +1155,8 @@
             "बीस", "इक्कीस", "बाईस", "तेईस", "चौबीस", "पच्चीस", "छब्बीस", "सत्ताईस", "बाईस", "बाईस",
             "तीस", "इकतीस", "बत्तीस", "तैंतीस", "पैंतीस", "पैंतीस", "छत्तीस", "सैंतीस", "बत्तीस", "तीस नौ",
             "चालीस", "बयालीस", "बयालीस", "बयालीस", "पैंतालीस", "पैंतालीस", "छत्तीस", "सैंतालीस", "अड़तालीस", "सैंतालीस",
-            "पचास", "पचास एक", "पचास दो", "पचास तीन", "पचास चार", "पचपन", "छप्पन", "पचास सात", "पचास आठ", "पचास नौ", "साठ"]
+            "पचास", "पचास एक", "पचास दो", "पचास तीन", "पचास चार", "पचपन", "छप्पन", "पचास सात", "पचास आठ", "पचास नौ", "साठ"],
+            "tooManyConcurrentUsers": "क्षमा करें, इस मंच का उपयोग करने के लिए कई लोग कोशिश कर रहे हैं। कृपया वापिस आएं तथा दुबारा प्रयास करें।"
 
     },
    		"ru": {
@@ -1319,7 +1327,8 @@
             "двадцать", "двадцать один", "двадцать два", "двадцать три", "двадцать четыре", "двадцать пять", "двадцать шесть", "двадцать семь", "двадцать восемь", "двадцать девять",
             "тридцать", "тридцать один", "тридцать два", "тридцать три", "тридцать тридцать", "тридцать пять", "тридцать шесть", "тридцать семь", "тридцать восемь", "тридцать девять",
             "сорок", "сорок один", "сорок два", "сорок три", "сорок четыре", "сорок пять", "сорок шесть", "сорок семь", "сорок восемь", "сорок девять",
-            "пятьдесят", "пятьдесят один", "пятьдесят два", "пятьдесят три", "пятьдесят четыре", "пятьдесят пять", "пятьдесят шесть", "пятьдесят семь", "пятьдесят восемь", "пятьдесят девять", " шестьдесят"]
+            "пятьдесят", "пятьдесят один", "пятьдесят два", "пятьдесят три", "пятьдесят четыре", "пятьдесят пять", "пятьдесят шесть", "пятьдесят семь", "пятьдесят восемь", "пятьдесят девять", " шестьдесят"],
+            "tooManyConcurrentUsers": "Извините, слишком много людей пытаются использовать этот форум одновременно. Пожалуйста, вернитесь попозже и попробуйте снова."
 
     },
     	"jp": {
@@ -1490,7 +1499,8 @@
             "twenty", "twenty one", "twenty two", "twenty three", "twenty four", "twenty five", "twenty six", "twenty seven", "twenty eight", "twenty nine", 
             "30", "31", "32", "33", "30 30", "35", "36", "37", "38", "39", 
             "フォーティー", "フォーティーワン", "フォーティーツー", "フォーティースリー", "フォーティーフォー", "フォーティーファイブ", "フォーティーシックス", "フォーティーセブン", "フォーティーエイト", "フォーティーナイン", 
-            "五十", "五一", "五二", "五三", "五四", "五五", "五十六", "五七", "五八", "五十九", "60"]
+            "五十", "五一", "五二", "五三", "五四", "五五", "五十六", "五七", "五八", "五十九", "60"],
+            "tooManyConcurrentUsers": "申し訳ありませんが、一度にこのフォーラムを利用しようとする人が多すぎます。 戻ってきて、後でもう一度やり直してください。"
 
     },
     	"bg": {
@@ -1661,7 +1671,8 @@
             "বিশ", "একুশ", "বাইশ", "তেইশ", "চব্বিশ", "পঁচিশ", "ছাব্বিশ", "সাতাশ", "বাইশ", "বাইশ",
             "তিরিশ", "একত্রিশ", "তিরিশ", "তিরিশ", "ত্রিশ তিরিশ", "পঁয়ত্রিশ", "ছত্রিশ", "তেত্রিশ", "তিরিশ", "তিরিশ",
             "চল্লিশ", "একচল্লিশ", "চল্লিশ", "চল্লিশ তিন", "চল্লিশে", "চল্লিশ", "চল্লিশ ছয়", "সাতচল্লিশ", "চল্লিশ", "চল্লিশ",
-            "পঞ্চাশ", "পঞ্চান্ন", "বাহান্ন", "তেতান্ব", "পঞ্চান্ন", "পঞ্চান", "পঞ্চান", "পঁচান", "পঁচান", "পঁচান", "ষাট"]
+            "পঞ্চাশ", "পঞ্চান্ন", "বাহান্ন", "তেতান্ব", "পঞ্চান্ন", "পঞ্চান", "পঞ্চান", "পঁচান", "পঁচান", "পঁচান", "ষাট"],
+            "tooManyConcurrentUsers": "দুঃখিত, এই ফোরামটি একবারে ব্যবহার করার চেষ্টা করছে এমন অনেক লোক রয়েছে। দয়া করে ফিরে আসুন এবং পরে আবার চেষ্টা করুন।"
 
     },
     	"ko": {
@@ -1832,7 +1843,8 @@
             "스물", "스물 일", "스물 둘", "스물셋", "스물 넷", "스물 다섯", "스물 여섯", "스물 일곱", "스물 여덟", "스물 아홉",
             "서른", "서른 일", "서른 둘", "서른 셋", "서른 서른", "서른 다섯", "서른 여섯", "서른 일곱", "서른 여덟", "서른 아홉",
             "사십", "사십 일", "사십이", "사십 삼", "사십 사", "사십 오", "사 십육", "사십 일", "사 십팔", "사십구",
-            "오십", "오십 일", "오십이", "오십 삼", "오십 사", "오십 오", "오 십육", "오십 칠", "오십 팔", "오십 아홉", " 육십"]
+            "오십", "오십 일", "오십이", "오십 삼", "오십 사", "오십 오", "오 십육", "오십 칠", "오십 팔", "오십 아홉", " 육십"],
+            "tooManyConcurrentUsers": "죄송합니다. 한 번에이 포럼을 사용하려는 사람이 너무 많습니다. 돌아와서 나중에 다시 시도하십시오."
 
     },
     	"pu": {
@@ -2003,7 +2015,8 @@
             "ਵੀਹ", "ਵੀਹ", "ਵੀਹ", "ਤੇਈ", "ਵੀਹ", "ਵੀਹ", "ਵੀਹ", "ਸਤਾਈ", "ਵੀਹ", "ਵੀਹ", 
             "ਤੀਹ", "ਤੀਹ", "ਤੀਹ", "ਤੀਹ", "ਤੀਹ ਤੀਹ", "ਤੀਹ", "ਤੀਹ", "ਤੀਹ", "ਤੀਹ", "ਤੀਹ",
             "ਚਾਲੀ", "ਚਾਲੀ ਇੱਕ", "ਚਾਲੀ ਦੋ", "ਚਾਲੀ ਤਿੰਨ", "ਚਾਲੀ ਚਾਲੀ", "ਚਾਲੀ", "ਚਾਲੀ,", "ਚਾਲੀ,", "ਚਾਲੀ, ਸੱਤ", "ਚਾਲੀ",
-            "ਪੰਜਾਹ", "ਪਚਵੰਜਾ", "ਪਚਵੰਜਾ", "ਪਚਵੰਜਾ", "ਪੰਜਾਹ", "", "ਪੰਜਾਹ", "", "ਸੱਠ"]
+            "ਪੰਜਾਹ", "ਪਚਵੰਜਾ", "ਪਚਵੰਜਾ", "ਪਚਵੰਜਾ", "ਪੰਜਾਹ", "", "ਪੰਜਾਹ", "", "ਸੱਠ"],
+            "tooManyConcurrentUsers": "ਮੁਆਫ ਕਰਨਾ, ਬਹੁਤ ਸਾਰੇ ਲੋਕ ਇਸ ਫੋਰਮ ਨੂੰ ਇਕੋ ਸਮੇਂ ਵਰਤਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹਨ. ਕਿਰਪਾ ਕਰਕੇ ਵਾਪਸ ਆਓ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ."
 
     },
     	"it": {
@@ -2174,7 +2187,8 @@
             "venti", "ventuno", "ventidue", "ventitré", "ventiquattro", "venticinque", "ventisei", "ventisette", "ventotto", "ventinove",
             "trenta", "trentuno", "trentadue", "trentatré", "trenta trenta", "trentacinque", "trentasei", "trentasette", "trentotto", "trentanove",
             "quaranta", "quarantuno", "quarantadue", "quarantatre", "quarantaquattro", "quarantacinque", "quarantasei", "quarantasette", "quarantotto", "quarantanove",
-            "cinquanta", "cinquantuno", "cinquantadue", "cinquantatre", "cinquantaquattro", "cinquantacinque", "cinquantasei", "cinquantasette", "cinquantotto", "cinquantanove", " sessanta"]
+            "cinquanta", "cinquantuno", "cinquantadue", "cinquantatre", "cinquantaquattro", "cinquantacinque", "cinquantasei", "cinquantasette", "cinquantotto", "cinquantanove", " sessanta"],
+            "tooManyConcurrentUsers": "Spiacenti, troppe persone stanno tentando di utilizzare questo forum contemporaneamente. Si prega di tornare e riprovare più tardi."
 
     },
     	"in": {
@@ -2344,9 +2358,10 @@
             "dua puluh", "dua puluh satu", "dua puluh dua", "dua puluh tiga", "dua puluh empat", "dua puluh lima", "dua puluh enam", "dua puluh tujuh", "dua puluh delapan", "dua puluh sembilan",
             "tiga puluh", "tiga puluh satu", "tiga puluh dua", "tiga puluh tiga", "tiga puluh tiga", "tiga puluh lima", "tiga puluh enam", "tiga puluh tujuh", "tiga puluh delapan", "tiga puluh sembilan",
             "empat puluh", "empat puluh satu", "empat puluh dua", "empat puluh tiga", "empat puluh empat", "empat puluh lima", "empat puluh enam", "empat puluh tujuh", "empat puluh delapan", "empat puluh sembilan",
-            "lima puluh", "lima puluh satu", "lima puluh dua", "lima puluh tiga", "lima puluh empat", "lima puluh lima", "lima puluh enam", "lima puluh tujuh", "lima puluh delapan", "lima puluh sembilan", " enam puluh "]
+            "lima puluh", "lima puluh satu", "lima puluh dua", "lima puluh tiga", "lima puluh empat", "lima puluh lima", "lima puluh enam", "lima puluh tujuh", "lima puluh delapan", "lima puluh sembilan", " enam puluh "],
+            "tooManyConcurrentUsers": "Maaf, terlalu banyak orang yang mencoba menggunakan forum ini sekaligus. Silakan kembali dan coba lagi nanti."
 
-    		},
+    },
     		"cht":{
             "fullnameEnglish":"中國傳統的",
             "observeMessage":"看到",
@@ -2516,7 +2531,8 @@
             "二十一","二十一","二十二","二十三","二十四","二十五","二十六","二十七","二十八","二十九",
             "三十三","三十一","三十二","三十三","三十三","三十五","三十六","三十七","三十八","三十九",
             "四十","四十一","四十二","四十三","四十四","四十五","四十六","四十七","四十八","四十九",
-            "五十","五十一","五十二","五十三","五十四","五十五","五十六","五十七","五十八","五十九","六十"]
+            "五十","五十一","五十二","五十三","五十四","五十五","五十六","五十七","五十八","五十九","六十"],
+            "tooManyConcurrentUsers": "抱歉，有太多人試圖同時使用此論壇。 請回來，稍後再試。"
 
     	}
     }
