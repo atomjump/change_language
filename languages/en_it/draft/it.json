@@ -167,7 +167,8 @@
             "venti", "ventuno", "ventidue", "ventitré", "ventiquattro", "venticinque", "ventisei", "ventisette", "ventotto", "ventinove",
             "trenta", "trentuno", "trentadue", "trentatré", "trenta trenta", "trentacinque", "trentasei", "trentasette", "trentotto", "trentanove",
             "quaranta", "quarantuno", "quarantadue", "quarantatre", "quarantaquattro", "quarantacinque", "quarantasei", "quarantasette", "quarantotto", "quarantanove",
-            "cinquanta", "cinquantuno", "cinquantadue", "cinquantatre", "cinquantaquattro", "cinquantacinque", "cinquantasei", "cinquantasette", "cinquantotto", "cinquantanove", " sessanta"]
+            "cinquanta", "cinquantuno", "cinquantadue", "cinquantatre", "cinquantaquattro", "cinquantacinque", "cinquantasei", "cinquantasette", "cinquantotto", "cinquantanove", " sessanta"],
+            "tooManyConcurrentUsers": "Spiacenti, troppe persone stanno tentando di utilizzare questo forum contemporaneamente. Si prega di tornare e riprovare più tardi."
 
     }
 }

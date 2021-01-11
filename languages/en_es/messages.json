@@ -329,7 +329,8 @@
             	"selectError": "Error: Lo sentimos, no podemos seleccionar ese archivo. Intenta actualizar tu página.",
             	"browserNoSupport": "Lo sentimos, este navegador no admite la carga de imágenes.",
             	"notImage": " el archivo no es una imagen."
-            }
+            },
+            "tooManyConcurrentUsers": "Lo sentimos, hay demasiadas personas intentando usar este foro a la vez. Por favor vuelva e inténtelo más tarde."
 		}
     }
 }

@@ -167,7 +167,8 @@
             "vingt", "vingt et un", "vingt-deux", "vingt-trois", "vingt-quatre", "vingt-cinq", "vingt-six", "vingt-sept", "vingt-huit", "vingt-neuf",
             "trente", "trente et un", "trente-deux", "trente-trois", "trente trente", "trente cinq", "trente six", "trente-sept", "trente huit", "trente neuf",
             "quarante", "quarante et un", "quarante-deux", "quarante-trois", "quarante-quatre", "quarante-cinq", "quarante-six", "quarante-sept", "quarante-huit", "quarante-neuf",
-            "cinquante", "cinquante et un", "cinquante-deux", "cinquante-trois", "cinquante-quatre", "cinquante-cinq", "cinquante-six", "cinquante-sept", "cinquante-huit", "cinquante-neuf", "soixante"]
+            "cinquante", "cinquante et un", "cinquante-deux", "cinquante-trois", "cinquante-quatre", "cinquante-cinq", "cinquante-six", "cinquante-sept", "cinquante-huit", "cinquante-neuf", "soixante"],
+            "tooManyConcurrentUsers": "Désolé, trop de personnes essaient d'utiliser ce forum à la fois. Veuillez revenir et réessayer plus tard."
 
     }
 }
