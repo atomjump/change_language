@@ -214,7 +214,7 @@ var lsmsg = {
         "in": {
               "defaultYourName": "Namamu",
               "defaultYourEmail": "Email Anda",
-              "login": "Sudah masuk. Harap tunggu ..",
+              "loggedIn": "Sudah masuk. Harap tunggu ..",
               "passwordWrong": "Maaf, password anda salah.",
               "forumPasswordWrong": "Maaf, kata sandi forum Anda salah.",
               "passwordStored": "Terima kasih, sandi Anda sekarang telah disetel.",
