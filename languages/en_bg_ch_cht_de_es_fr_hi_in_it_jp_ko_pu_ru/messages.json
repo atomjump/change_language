@@ -110,7 +110,7 @@
             "problemSubscribing": "Sorry there was a problem subscribing. Please try again.",
             "successSubscribing": "Successfully subscribed.",
             "enterEmail": "Enter your e-mail",
-            "more": "More🔒 🇧🇷🇨🇳 ↘",
+            "more": "More🔒 <img src='images/flags.png' width='48' height='14'> ↘",
             "yourPassword": "Your password",
             "yourPasswordReason": "We use this to provide security if you require private messages. Enter this, and click login.",
             "resetPasswordLink": "reset",
