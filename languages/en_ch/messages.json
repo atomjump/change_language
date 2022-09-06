@@ -6,9 +6,9 @@
             "fullnameEnglish": "English",
             "observeMessage": "See",
             "layerName": "Popup",
-            "removeComment": "To remove this comment click here",
-            "newMsg": "New forum message from",
-            "thanksConfirmEmail": "Thank you for confirming your AtomJump Messages email address.",
+            "removeComment": "To remove this comment click here", 
+            "newMsg": "New forum message from", 
+            "thanksConfirmEmail": "Thank you for confirming your AtomJump Messages email address.", 
             "invalidEmailCode": "Sorry that is not a valid code.",
             "welcomeEmail": {
                 "title": "AtomJump Messaging Welcome",
@@ -55,14 +55,14 @@
                 "years": "years",
                 "decades": "decades",
                 "ago": "ago"
-
+                      
             },
             "fields": {
                 "id": "id",
                 "text": "text",
                 "timestamp": "timestamp",
                 "private": "private",
-                "sentiment": "sentiment"
+                "sentiment": "sentiment"            
             },
             "isPrivate": "private",
             "isPublic": "public",
@@ -93,7 +93,7 @@
             "sendPrivatelyButton": "Send to Subscribers",
             "sendPubliclyButton": "Send Publicly",
             "commentSettings": "Comment Settings",
-            "logoutLink": "Logout",
+            "logoutLink": "Logout <img src='images/signout.svg' width='18' height='18' style='vertical-align: top;'>",
             "notSignedIn": "Not Signed In",
             "yourName": "Your name",
             "enterYourName": "Enter your name",
@@ -110,7 +110,7 @@
             "problemSubscribing": "Sorry there was a problem subscribing. Please try again.",
             "successSubscribing": "Successfully subscribed.",
             "enterEmail": "Enter your e-mail",
-            "more": "More",
+            "more": "More🔒 <img src='images/flags.png' width='48' height='14'> ↘",
             "yourPassword": "Your password",
             "yourPasswordReason": "We use this to provide security if you require private messages. Enter this, and click login.",
             "resetPasswordLink": "reset",
@@ -131,7 +131,7 @@
             "saveSettingsButton": "Save Settings",
             "subscribeSettingsButton": "Subscribe",
             "loginSettingsButton": "Save / Login",
-            "tip": "Tip: Click a person's name to talk privately to them. See our <a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\">Privacy Policy</a>.",
+            "tip": "<b>Important:</b> Any identity changes on this page will be stored in your browser cookies. See our <a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php#cookies\">Privacy Policy</a>.<br><br><b>Tip:</b> Click a person's name to talk privately to them.",
             "getYourOwn": "Get your own <a target=\"_blank\" href=\"http:\/\/atomjump.org\">AtomJump Messaging</a> widget.",
             "uploadTitle" : "Upload",
             "selectImage" : "Select Image",
@@ -263,7 +263,7 @@
             "sendPrivatelyButton": "发送给订阅者",
             "sendPubliclyButton": "公开发送",
             "commentSettings": "评论设置",
-            "logoutLink": "注销",
+            "logoutLink": "注销 <img src='images/signout.svg' width='18' height='18' style='vertical-align: top;'>",
             "notSignedIn": "未登录",
             "yourName": "您的名字",
             "enterYourName": "输入您的名字",
@@ -281,7 +281,7 @@
             "successSubscribing": "已成功订阅。",
             "optional": "可选",
             "enterEmail": "输入您的电子邮件",
-            "more": "更多",
+            "more": "更多🔒 <img src='images/flags.png' width='48' height='14'> ↘",
             "yourPassword": "您的密码",
             "yourPasswordReason": "如果您需要私人消息，我们使用它来提供安全性。输入您的密码，然后单击登录。",
             "resetPasswordLink": "重置",
@@ -302,7 +302,7 @@
             "saveSettingsButton": "保存设置",
             "subscribeSettingsButton": "订阅",
             "loginSettingsButton": "保存/登录",
-            "tip": "提示：单击某人的名字可以与他们私下聊天。请参阅我们的<a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php\">隐私政策</a>。",
+            "tip": "<b>重要提示：</b>此页面上的任何身份更改都将存储在您的浏览器 cookie 中。 请参阅我们的<a target=\"_blank\" href=\"http:\/\/atomjump.com/privacy.php#cookies\">隐私政策</a>。<br><br><b>提示 :</b> 点击某人的名字与他们私下交谈。",
             "getYourOwn": "获取您自己的<a target=\"_blank\" href=\"http:\/\/atomjump.org\">AtomJump 消息</a>小部件。",
             "uploadTitle": "上传",
             "selectImage": "选择图像",
@@ -325,10 +325,10 @@
             "emojisTitle": "表情符号",
             "standardEmailFromName": "AtomJump用户",
             "photos":  {
-					"largeWarning": "警告：这是一个大文件，我们将略微降低质量。",
-					"selectError": "错误：对不起，我们无法选择该文件。请尝试刷新您的页面。",
-					"browserNoSupport": "对不起，此浏览器不支持图像上传。",
-					"notImage": "文件不是图像。"
+				"largeWarning": "警告：这是一个大文件，我们将略微降低质量。",
+				"selectError": "错误：对不起，我们无法选择该文件。请尝试刷新您的页面。",
+				"browserNoSupport": "对不起，此浏览器不支持图像上传。",
+				"notImage": "文件不是图像。"
             },
             "numbersLonghand": ["零","一个","两个","三个","四个","五个","六个","七个","八个","九个",
             			"十","十一","十二","十三","十四","十五","十六","十七","十八","十九",
