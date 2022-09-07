@@ -162,7 +162,7 @@
             "tooManyConcurrentUsers": "Sorry, there are too many people trying to use this forum at once. Please come back and try again later."
         },
 		"es": {
-			"fullnameEnglish": "Español Beta",
+			"fullnameEnglish": "Español",
 			"observeMessage": "Ver",
 			"layerName": "emergente",
 			"removeComment": "Para eliminar este comentario, haga clic aquí",
@@ -322,7 +322,7 @@
             
 		},
 		"pt":{
-            "fullnameEnglish": "Português Beta",
+            "fullnameEnglish": "Português",
             "observeMessage": "Vejo",
             "layerName": "Aparecer",
             "removeComment": "Para remover este comentário clique aqui", 
@@ -479,7 +479,7 @@
             "tooManyConcurrentUsers": "Desculpe, há muitas pessoas tentando usar este fórum ao mesmo tempo. Por favor, volte e tente novamente mais tarde."
         },
         "ch":{
-            "fullnameEnglish": "简体中文测试版",
+            "fullnameEnglish": "简体中文",
             "observeMessage": "看到",
             "layerName": "弹出",
             "removeComment": "请单击此处删除评论",
@@ -644,7 +644,7 @@
             "tooManyConcurrentUsers": "抱歉，有太多人试图同时使用此论坛。 请回来，稍后再试。"
         },
         "de": {
-            "fullnameEnglish": "Deutsche Beta",
+            "fullnameEnglish": "Deutsche",
             "watchMessage": "Sehen",
             "layerName": "Aufpoppen",
             "removeComment": "Um diesen Kommentar zu entfernen, klicken Sie hier",
@@ -816,7 +816,7 @@
 
     },
     	"fr": {
-            "fullnameEnglish": "Français Beta",
+            "fullnameEnglish": "Français",
             "observeMessage": "Voir",
             "layerName": "Apparaitre",
             "removeComment": "Pour supprimer ce commentaire cliquez ici",
@@ -988,7 +988,7 @@
 
     },
     	"hi": {
-            "fullnameEnglish": "हिन्दी",
+            "fullnameEnglish": "हिंदी",
             "observeMessage": "देखें",
             "layerName": "पॉपअप",
             "removeComment": "इस टिप्पणी को हटाने के लिए यहां क्लिक करें",
@@ -1332,7 +1332,7 @@
 
     },
     	"jp": {
-            "fullnameEnglish": "日本語ベータ",
+            "fullnameEnglish": "日本語",
             "observeMessage":  "見る",
             "layerName":  "ポップアップ",
             "removeComment":  "このコメントを削除するには、ここをクリックしてください",
@@ -1504,7 +1504,7 @@
 
     },
     	"bg": {
-            "fullnameEnglish": "বাংলা বিটা",
+            "fullnameEnglish": "বাংলা",
             "observeMessage": "দেখুন",
             "layerName": "পপআপ",
             "removeComment": "এই মন্তব্যটি সরাতে এখানে ক্লিক করুন",
@@ -1676,7 +1676,7 @@
 
     },
     	"ko": {
-            "fullnameEnglish": "한국어 베타",
+            "fullnameEnglish": "한국어",
             "observeMessage": "보기",
             "layerName": "팝업",
             "removeComment": "이 주석을 제거하려면 여기를 클릭하십시오",
@@ -1848,7 +1848,7 @@
 
     },
     	"pu": {
-            "fullnameEnglish": "ਪੰਜਾਬੀ ਬੀਟਾ",
+            "fullnameEnglish": "ਪੰਜਾਬੀ",
             "observeMessage": "ਵੇਖੋ",
             "layerName": "ਪੌਪ-ਅਪ",
             "removeComment": "ਇਸ ਟਿੱਪਣੀ ਨੂੰ ਹਟਾਉਣ ਲਈ ਇੱਥੇ ਕਲਿੱਕ ਕਰੋ",
@@ -2020,7 +2020,7 @@
 
     },
     	"it": {
-            "fullnameEnglish": "Italiano Beta",
+            "fullnameEnglish": "Italiano",
             "observeMessage": "See",
             "layerName": "Popup",
             "removeComment": "Per rimuovere questo commento fai clic qui",
@@ -2192,7 +2192,7 @@
 
     },
     	"in": {
-            "fullnameEnglish": "Indonesia Beta",
+            "fullnameEnglish": "Bahasa Indonesia",
             "observeMessage": "Lihat",
             "layerName": "Muncul",
             "removeComment": "Untuk menghapus komentar ini klik di sini",
@@ -2362,7 +2362,7 @@
             "tooManyConcurrentUsers": "Maaf, terlalu banyak orang yang mencoba menggunakan forum ini sekaligus. Silakan kembali dan coba lagi nanti."
 
     },
-    		"cht":{
+    "cht":{
             "fullnameEnglish":"中國傳統的",
             "observeMessage":"看到",
             "layerName":"彈出",
