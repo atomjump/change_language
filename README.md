@@ -1,4 +1,7 @@
 # change_language
+
+__WARNING: this project has now moved to https://src.atomjump.com/atomjump/change_language.git__
+
 A plugin for AtomJump Messaging Server to allow changes of the default language interactively
 
 ## Requirements
